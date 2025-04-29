@@ -18,14 +18,14 @@ const BookCard: React.FC<BookCardProps> = ({ title, author, entries, slug }) => 
   return (
     <a
       href={`/book/${slug}`}
-      className="block bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 transition-all hover:shadow-lg hover:scale-[1.02]"
+      className="block bg-white dark:bg-gray-800 rounded-lg shadow-md p-4 sm:p-6 transition-all hover:shadow-lg hover:scale-[1.02]"
     >
-      <div className="flex justify-between items-start mb-4">
+      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-2 sm:gap-0 mb-4">
         <div className="pr-4">
-          <h2 className="text-2xl font-semibold text-gray-800 dark:text-white mb-2">
+          <h2 className="text-xl sm:text-2xl font-semibold text-gray-800 dark:text-white mb-1 sm:mb-2 line-clamp-2">
             {title}
           </h2>
-          <p className="text-gray-600 dark:text-gray-300">
+          <p className="text-sm sm:text-base text-gray-600 dark:text-gray-300">
             By {author}
           </p>
         </div>
@@ -34,16 +34,16 @@ const BookCard: React.FC<BookCardProps> = ({ title, author, entries, slug }) => 
         </div>
       </div>
 
-      <div className="space-y-4">
+      <div className="space-y-3 sm:space-y-4">
         {entries.slice(0, 3).map((highlight, index) => (
-          <div key={index} className="border-l-4 border-blue-500 pl-4 py-2">
-            <p className="text-gray-800 dark:text-gray-200 line-clamp-2">
+          <div key={index} className="border-l-4 border-blue-500 pl-3 sm:pl-4 py-2">
+            <p className="text-sm sm:text-base text-gray-800 dark:text-gray-200 line-clamp-2">
               {highlight.text}
             </p>
-            <div className="text-sm text-gray-500 dark:text-gray-400 mt-1 flex items-center space-x-2">
+            <div className="text-xs sm:text-sm text-gray-500 dark:text-gray-400 mt-1 flex items-center space-x-2">
               <span className="flex items-center">
                 <svg
-                  className="w-4 h-4 mr-1"
+                  className="w-3 h-3 sm:w-4 sm:h-4 mr-1"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"

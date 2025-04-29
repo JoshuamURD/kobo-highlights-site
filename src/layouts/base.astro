@@ -12,7 +12,7 @@ const { title = "Kobo Highlights" } = Astro.props;
     <head>
         <meta charset="utf-8" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <meta name="viewport" content="width=device-width" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content={Astro.generator} />
         <title>{title}</title>
     </head>
@@ -22,7 +22,7 @@ const { title = "Kobo Highlights" } = Astro.props;
                 <div class="flex justify-between items-center h-16">
                     <a
                         href="/"
-                        class="text-xl font-bold text-gray-800 dark:text-white"
+                        class="text-xl font-bold text-gray-800 dark:text-white truncate"
                     >
                         Kobo Highlights
                     </a>
