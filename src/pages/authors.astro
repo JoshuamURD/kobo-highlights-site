@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../layouts/base.astro";
+import { getCollection } from "astro:content";
+import BookCard from "../components/BookCard";
+import type { CollectionEntry } from "astro:content";
+
+const highlightsCollection = await getCollection("highlights");
+const books = highlightsCollection[0].data.documents;
+
+// Get unique authors
+const authors = [...new Set(books.map((book) => book.author))].sort();
+
+// Group books by author
+const booksByAuthor: Record<string, typeof books> = authors.reduce(
+    (acc, author) => {
+        acc[author] = books.filter((book) => book.author === author);
+        return acc;
+    },
+    {} as Record<string, typeof books>,
+);
+---
+
+<BaseLayout title="Books by Author - Kobo Highlights">
+    <main class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8 text-gray-900 dark:text-white">
+            Books by Author
+        </h1>
+
+        <div class="space-y-12">
+            {
+                authors.map((author: string) => (
+                    <section class="space-y-4">
+                        <h2 class="text-2xl font-semibold text-gray-800 dark:text-gray-200">
+                            {author}
+                        </h2>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {booksByAuthor[author].map((book) => {
+                                const slug = book.title
+                                    .toLowerCase()
+                                    .replace(/\s+/g, "-");
+                                return (
+                                    <BookCard
+                                        title={book.title}
+                                        author={book.author}
+                                        entries={book.entries}
+                                        slug={slug}
+                                    />
+                                );
+                            })}
+                        </div>
+                    </section>
+                ))
+            }
+        </div>
+    </main>
+</BaseLayout>

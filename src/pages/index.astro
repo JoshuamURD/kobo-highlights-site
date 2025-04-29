@@ -111,7 +111,7 @@ const sortedBooks = [...books].sort(
 
 	// Listen for search events
 	document.addEventListener("search", (event) => {
-		const searchTerm = event.detail;
+		const searchTerm = (event as CustomEvent).detail;
 		filterBooks(searchTerm);
 	});
 </script>
