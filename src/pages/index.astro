@@ -1,32 +1,14 @@
 ---
 import Layout from "../layouts/base.astro";
 import { getCollection } from "astro:content";
+import BookCard from "../components/BookCard";
+import SearchBar from "../components/SearchBar";
 
 const highlightsCollection = await getCollection("highlights");
 const books = highlightsCollection[0].data.documents;
 
-type Book = {
-	title: string;
-	author: string;
-	entries: Array<{
-		text: string;
-		note?: string;
-		page: number;
-		chapter: string;
-	}>;
-};
-
-// Pagination
-const ITEMS_PER_PAGE = 5;
-const currentPage = Astro.url.searchParams.get("page")
-	? parseInt(Astro.url.searchParams.get("page")!)
-	: 1;
-const totalPages = Math.ceil(books.length / ITEMS_PER_PAGE);
-const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-const paginatedBooks = books.slice(startIndex, startIndex + ITEMS_PER_PAGE);
-
 // Sort books by number of highlights
-const sortedBooks = [...paginatedBooks].sort(
+const sortedBooks = [...books].sort(
 	(a, b) => b.entries.length - a.entries.length,
 );
 ---
@@ -37,117 +19,29 @@ const sortedBooks = [...paginatedBooks].sort(
 			<h1 class="text-4xl font-bold text-gray-800 dark:text-white">
 				My Reading Highlights
 			</h1>
-			<div class="relative">
-				<input
-					type="text"
-					id="search"
-					placeholder="Search highlights..."
-					class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
-				/>
+			<div class="flex items-center space-x-4">
+				<SearchBar client:load />
 			</div>
 		</div>
 
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 			{
 				sortedBooks &&
-					sortedBooks.map((book: Book) => {
+					sortedBooks.map((book) => {
 						const slug = book.title
 							.toLowerCase()
 							.replace(/\s+/g, "-");
 						return (
-							<a
-								href={`/book/${slug}`}
-								class="block bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 transition-all hover:shadow-lg hover:scale-[1.02]"
-							>
-								<div class="flex justify-between items-start mb-4">
-									<div class="pr-4">
-										<h2 class="text-2xl font-semibold text-gray-800 dark:text-white mb-2">
-											{book.title}
-										</h2>
-										<p class="text-gray-600 dark:text-gray-300">
-											By {book.author}
-										</p>
-									</div>
-									<div class="text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">
-										{book.entries.length} highlights
-									</div>
-								</div>
-
-								<div class="space-y-4 flex-1 overflow-y-auto">
-									{book.entries
-										.slice(0, 3)
-										.map((highlight) => (
-											<div class="border-l-4 border-blue-500 pl-4 py-2">
-												<p class="text-gray-800 dark:text-gray-200 line-clamp-2">
-													{highlight.text}
-												</p>
-												<div class="text-sm text-gray-500 dark:text-gray-400 mt-1 flex items-center space-x-2">
-													<span class="flex items-center">
-														<svg
-															class="w-4 h-4 mr-1"
-															fill="none"
-															stroke="currentColor"
-															viewBox="0 0 24 24"
-														>
-															<path
-																stroke-linecap="round"
-																stroke-linejoin="round"
-																stroke-width="2"
-																d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
-															/>
-														</svg>
-														Page {highlight.page}
-													</span>
-												</div>
-											</div>
-										))}
-									{book.entries.length > 3 && (
-										<p class="text-sm text-blue-500 dark:text-blue-400 text-center">
-											View all {book.entries.length}{" "}
-											highlights →
-										</p>
-									)}
-								</div>
-							</a>
+							<BookCard
+								client:load
+								title={book.title}
+								author={book.author}
+								entries={book.entries}
+								slug={slug}
+							/>
 						);
 					})
 			}
 		</div>
-
-		<!-- Pagination -->
-		<div class="flex justify-center mt-8 space-x-2">
-			{
-				Array.from({ length: totalPages }, (_, i) => i + 1).map(
-					(page) => (
-						<a
-							href={`?page=${page}`}
-							class={`px-4 py-2 rounded-lg ${
-								page === currentPage
-									? "bg-blue-500 text-white"
-									: "bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white hover:bg-gray-300 dark:hover:bg-gray-600"
-							}`}
-						>
-							{page}
-						</a>
-					),
-				)
-			}
-		</div>
 	</main>
 </Layout>
-
-<script>
-	// Search functionality
-	const searchInput = document.getElementById("search") as HTMLInputElement;
-	const articles = document.querySelectorAll("article");
-
-	searchInput?.addEventListener("input", (e) => {
-		const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
-
-		articles.forEach((article) => {
-			const text = article.textContent?.toLowerCase() || "";
-			const isVisible = text.includes(searchTerm);
-			article.style.display = isVisible ? "block" : "none";
-		});
-	});
-</script>
