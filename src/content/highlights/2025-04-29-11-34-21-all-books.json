@@ -1,0 +1,2988 @@
+{
+    "version": "json/1.0.0",
+    "documents": [
+        {
+            "title": "The Death of Ivan Ilyich (Centaur Classics)",
+            "number_of_pages": 116,
+            "file": "/mnt/onboard/Fiction/Leo Tolstoy - The Death of Ivan Ilyich (Centaur Classics).epub",
+            "author": "Leo Tolstoy",
+            "entries": [
+                {
+                    "time": 1736077190,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "5",
+                    "text": "“When I am not, what will there be? There will be nothing. Then where shall I be when I am no more?",
+                    "page": 67
+                },
+                {
+                    "time": 1736080154,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10",
+                    "text": "“What is this? Can it be that it is Death?” And the inner voice answered: “Yes, it is Death.”\n“Why these sufferings?” And the voice answered, “For no reason — they just are so.” Beyond and besides this there was nothing.",
+                    "page": 103
+                }
+            ]
+        },
+        {
+            "title": "Structure and Interpretation of Computer Programs",
+            "number_of_pages": 1982,
+            "file": "/mnt/onboard/Non-fiction/Gerald Sussman - Structure and Interpretation of Computer Programs.epub",
+            "author": "Harold Abelson;Gerald Jay Sussman;Martin Henz;Tobias Wrigstad;\nGerald Sussman\nMartin Henz\nTobias Wrigstad",
+            "entries": [
+                {
+                    "time": 1745297901,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1: Building Abstractions with Functions",
+                    "text": "Every powerful language has three mechanisms for accomplishing this:\nprimitive expressions, which represent the simplest entities the language is concerned with,\nmeans of combination, by which compound elements are built from simpler ones, and\nmeans of abstraction, by which compound elements can be named and manipulated as units.",
+                    "page": 80
+                }
+            ]
+        },
+        {
+            "title": "The Human Condition",
+            "number_of_pages": 847,
+            "file": "/mnt/onboard/Non-fiction/The Human Condition.kepub.epub",
+            "author": "Hannah Arendt",
+            "entries": [
+                {
+                    "time": 1745191334,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Prologue",
+                    "text": "they move in a world where speech has lost its power. And whatever men do or know or experience can make sense only to the extent that it can be spoken about.",
+                    "page": 65
+                }
+            ]
+        },
+        {
+            "title": "White Nights",
+            "number_of_pages": 153,
+            "file": "/mnt/onboard/Fiction/Fyodor Dostoyevsky - White Nights.epub",
+            "author": "Fyodor Dostoyevsky",
+            "entries": [
+                {
+                    "time": 1736094017,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "NASTENKA’S STORY",
+                    "text": "You know, we thank some people for merely living at the same time as we do.",
+                    "page": 72
+                }
+            ]
+        },
+        {
+            "title": "Dune",
+            "number_of_pages": 1310,
+            "file": "/mnt/onboard/Fiction/sci-fi/Dune_(Frank_Herbert)_(Z-Library).kepub.epub",
+            "author": "Frank Herbert",
+            "entries": [
+                {
+                    "time": 1711514927,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 10",
+                    "text": "the proximity of a desirable thing tempts one to overindulgence. On that path lies danger.",
+                    "page": 186
+                },
+                {
+                    "time": 1711972403,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 25",
+                    "text": "“Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past me I will turn to see fear’s path. Where the fear has gone there will be nothing. Only I will remain.”",
+                    "page": 560
+                },
+                {
+                    "time": 1712290474,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 43",
+                    "text": "When law and duty are one, united by religion, you never become fully conscious, fully aware of yourself. You are always a little less than an individual.",
+                    "page": 987
+                },
+                {
+                    "time": 1712674815,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appendix I: The Ecology of Dune",
+                    "text": "Beyond a critical point within a finite space, freedom diminishes as numbers increase. This is as true of humans in the finite space of a planetary ecosystem as it is of gas molecules in a sealed flask. The human question is not how many can possibly survive within the system, but what kind of existence is possible for those who do survive.",
+                    "page": 1184
+                }
+            ]
+        },
+        {
+            "title": "No Longer Human",
+            "number_of_pages": 193,
+            "file": "/mnt/onboard/Fiction/Osamu Dazai - No Longer Human.epub",
+            "author": "Osamu Dazai",
+            "entries": [
+                {
+                    "time": 1736101480,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The First Notebook",
+                    "text": "Unable as I was to feel the least particle of confidence in my ability to speak and act like a human being, I kept my solitary agonies locked in my breast. I kept my melancholy and my agitation hidden, careful lest any trace should be left exposed.",
+                    "page": 33
+                }
+            ]
+        },
+        {
+            "title": "Make Every Word Count",
+            "number_of_pages": 326,
+            "file": "/mnt/onboard/Non-fiction/Gary Provost - Make Every Word Count.epub",
+            "author": "Gary Provost",
+            "entries": [
+                {
+                    "time": 1713415864,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "What Do You Mean by “Writing That Works”?",
+                    "text": "By writing that works, I mean writing that does the job it’s supposed to do, whether that job is to inform, entertain, sadden, anger, or instruct.",
+                    "page": 30
+                },
+                {
+                    "time": 1713436495,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "It’s Not Just What You Say…",
+                    "note": "speak the language of your target audience",
+                    "text": "The author’s use of visual images and accessible language should establish more firmly in your mind something you already knew when you picked up this book: Style does make a difference. It’s not just what you write that matters; it’s how you write it.",
+                    "page": 41
+                },
+                {
+                    "time": 1713436549,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "It’s Not Just What You Say…",
+                    "text": "good writers can make any subject interesting, while incompetent writers can make anything dull.",
+                    "page": 41
+                },
+                {
+                    "time": 1713437726,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "“too wordy.”\nWordiness, as generally used by teachers, editors, and writers, has two possible meanings. One is the second definition in my dictionary: “Expressed in or using more words than are necessary to convey meaning.” We’ll get to that soon.\nThe other way you can be guilty of wordiness is by using long words when short ones will do, using rare words instead of common ones, using words that look as if they were erected instead of written.",
+                    "page": 50
+                },
+                {
+                    "time": 1713483160,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "But, of each word you use, ask these questions:\nHave most of my readers seen and understood this word many times before?\nWill the readers who don’t know the word lose the meaning of the sentence, or will the context clear it up for them and possibly give them a new word?\nIf they have to look it up in the dictionary, is this the only time they’ll need to, or will they spend more time with Webster’s book than with mine?",
+                    "page": 53
+                },
+                {
+                    "time": 1713483254,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "If walk is dull, stroll is simple but interesting, and perambulate is wordy. If talk is getting wearisome, then have people chat, bicker, or shoot the breeze, but don’t let them discourse or expatiate, except on rare occasions. If too many people are getting wet in the rain, have a few get soaked or drenched, but please don’t let anyone become moisture-laden.",
+                    "page": 54
+                },
+                {
+                    "time": 1713483352,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "note": "[[writing exercise]]",
+                    "text": "Make a list of ten common words that can become dull through repetition (such as man, book, sat). For each word try to come up with a synonym that is simple but interesting and a synonym that is wordy. (You may have to hunt through the thesaurus, but don’t for a minute entertain the idea that that’s “cheating.” The writing profession has tools, just as any other does, and you wouldn’t think a carpenter was cheating because he used his saw.)",
+                    "page": 55
+                },
+                {
+                    "time": 1713499709,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "The overemployment of words generally takes three forms: redundant words, wasted words, and weak words.",
+                    "page": 58
+                },
+                {
+                    "time": 1713499748,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Redundancy occurs when you use two or more words to say something that is already being said clearly by one of them.",
+                    "page": 58
+                },
+                {
+                    "time": 1713500002,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "“Lenore picked up a weekly paycheck every Friday.” (If it happens every Friday, then we know it’s weekly.)",
+                    "page": 59
+                },
+                {
+                    "time": 1713500016,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Wasted words. When you write, don’t use extra words that serve no purpose; they slow your writing down.",
+                    "page": 59
+                },
+                {
+                    "time": 1713500029,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "meaningless phrases like “in the event of” (if); “on the occasion of” (when); “owing to the fact that” (because); “for a period of a month” (for a month).",
+                    "page": 60
+                },
+                {
+                    "time": 1713500047,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Words are also wasted in an attempt to modify that which cannot be modified, as in “very unique” and “slightly impossible.",
+                    "page": 60
+                },
+                {
+                    "time": 1713500094,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Weak words. One of the best ways to improve what you have written is to throw out two or three weak words and replace them with a strong one that conveys the same meaning",
+                    "page": 60
+                },
+                {
+                    "time": 1713500130,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "“He passed away early in the morning, and people all over America cried” becomes “He died at dawn and the nation wept.”",
+                    "page": 61
+                },
+                {
+                    "time": 1713500151,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Here’s a tip for finding weak words. Be wary of adverbs ending in -ly, such as rapidly, perversely, and lavishly. They often pop up because you used a weak verb and tried to boost it",
+                    "page": 61
+                },
+                {
+                    "time": 1713500202,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "Change these weak verbs with adverbs into strong, colorful verbs that have more impact.\nSpoke boringly.\nSmiled happily.\nWrote nervously.\nHit angrily.\nLooked curiously.\nTouched affectionately.\nDeparted quickly.",
+                    "page": 62
+                },
+                {
+                    "time": 1713500303,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Eschew Verbosity",
+                    "text": "’t become a fanatic about it. Don’t cross out every word you could possibly do without. Just be sure that every word you use has a job to do",
+                    "page": 63
+                },
+                {
+                    "time": 1713500461,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Active Voice… Most of the Time",
+                    "text": "New writers often fall into the habit of casting their characters as the passive recipients of some activity, when they should be writing about people or objects doing things, making things happen.",
+                    "page": 65
+                },
+                {
+                    "time": 1713500555,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Active Voice… Most of the Time",
+                    "text": "Sometimes, however, you are not writing about people, but about objects or concepts. Even then your objects or concepts should take charge of the sentence, become the subject, and work in the active voice.",
+                    "page": 66
+                },
+                {
+                    "time": 1713500567,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Active Voice… Most of the Time",
+                    "text": "For example, “The car was driven by Morty.” If you’re writing about Morty, then “Morty drove the car.” But maybe you’re really writing about the car. In that case, “The car sped down the highway,”",
+                    "page": 66
+                },
+                {
+                    "time": 1713500592,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Active Voice… Most of the Time",
+                    "text": "The tip-off to these dull, passive-voice sentences is usually a compound verb like was driven or were presented.",
+                    "page": 66
+                },
+                {
+                    "time": 1713500615,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Active Voice… Most of the Time",
+                    "text": "See if you can make these sentences as interesting as that man who plays tennis and goes skydiving by putting them into the active voice.\nNinety-four strikes were bowled by the team from Manny’s Cafe.\nThe atomic bomb was first dropped by the Americans.\nThree rings came from the telephone during the night.\nNine runs were scored by the Toronto Blue Jays in the fifth inning.\nThe tree was struck by a bolt of lightning.\nA speech was given by President Lincoln in Gettysburg.",
+                    "page": 67
+                },
+                {
+                    "time": 1713500855,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Be Specific… Most of the Time",
+                    "text": "So be specific with items that come in a well-known variety of shapes, colors, textures, and sizes, but don’t put any weird windows in your stories and articles unless they do something important.",
+                    "page": 71
+                },
+                {
+                    "time": 1713500865,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Be Specific… Most of the Time",
+                    "text": "Here are five sentences containing common general nouns:\nThe car became worthless within hours of its purchase.\nThe man only had one arm.\nHe handed her the book before he said goodbye.\nShe stood on the chair to reach the light bulb.\nIt was Christmas morning, and only one toy sat beneath the tree.",
+                    "page": 72
+                },
+                {
+                    "time": 1713500990,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Be Specific… Most of the Time",
+                    "text": "Tip #1: Being specific is particularly useful in creating humor.",
+                    "page": 74
+                },
+                {
+                    "time": 1713500994,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Be Specific… Most of the Time",
+                    "text": "Tip #2: Being specific with numbers increases believability.",
+                    "page": 74
+                },
+                {
+                    "time": 1713501080,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Say Things in a Positive Way… Most of the Time",
+                    "text": "Which can you see better, “He was not a generous man” or “He was a miser”?\n“The painting did not have any flaws” or “It was a masterpiece”?\n“He did not treat his kids nicely” or “He brutalized his children”?",
+                    "page": 75
+                },
+                {
+                    "time": 1713501335,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Show, Don’t Tell… Most of the Time",
+                    "text": "Show means create a picture the reader can see.",
+                    "page": 78
+                },
+                {
+                    "time": 1713501427,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Show, Don’t Tell… Most of the Time",
+                    "text": "Make a list of five nouns preceded by adjectives that tell. Try to turn the adjectives into verbs that show. For example, if your list were loud man, happy dog, old paint, shiny coin, and sad woman, you might come up with: man roared, dog wagged tail, paint peeled, coin glinted, and woman wept.\nTry these just to get your brain in gear.\nEmbarrassed girl\nImpatient trucker\nAngry coach",
+                    "page": 80
+                },
+                {
+                    "time": 1713501534,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Coffee Break",
+                    "text": "A writer needs from time to time to get away from his regular writing place, to be alone with himself, to view his work from a distance.",
+                    "page": 83
+                },
+                {
+                    "time": 1713931815,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appeal to the Senses",
+                    "text": "Writing that works is writing that appeals to the senses. So always in your writing return to the senses. The abstracts you create, the “think” material, float tenuously on the surface of the brain and can be blown away by the ringing of the telephone.",
+                    "page": 85
+                },
+                {
+                    "time": 1713931915,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appeal to the Senses",
+                    "text": "You will find that appealing to the senses works especially well at the beginning of an article or story, when you are leading the reader into your written world. “See,” you are saying, “it’s made of the same stuff as the world you’re in now.”",
+                    "page": 86
+                },
+                {
+                    "time": 1713932209,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appeal to the Senses",
+                    "text": "Think about these five environments:\nA circus\nA high school gymnasium\nA fisherman’s wharf\nAn auto-racing track\nA neighborhood bar\nFor each place write a paragraph or several sentences, using all five senses to describe the environment.\nFor example, if your environment were a “movie theater,” you might mention the sight of an usher, the sound of some bratty kid kicking the back of a seat, the smell of popcorn, the taste of a candy bar, and the feel of the floor that is invariably sticky from spilled sodas and discarded wads of chewing gum.\nThe important thing to remember is that you should use sensory stimuli that are associated with that environment but not with environments in general. If you say “It was noisy at the baseball game,” you haven’t gained any ground in trying to engrave the image of a baseball game on the reader’s brain. But if the noises you mention are the crack of the bat, the whizzing of a fastball, the roar of the crowd, the heckling from the bleachers, and the hush that falls over the stadium when one more strike will complete a no-hitter, then you have used “baseball words” to remind the reader of where he is.",
+                    "page": 91
+                },
+                {
+                    "time": 1714107206,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "A Personal Writing Style?",
+                    "text": "Remember that your primary goal as a writer is not to leave your imprint on the page. Your goal is to make the writing work, make it do what it is supposed to do, cause laughter, tears, fright, curiosity....",
+                    "page": 105
+                },
+                {
+                    "time": 1715851130,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "If the Writer Is Seen at Work, the Writing Won’t Work",
+                    "text": "Writing works best when you hypnotize the reader quickly and hold him spellbound until you’re through with him. You want his attention, and to keep it you must avoid the distractions that will cause his attention to wander and the moments of boredom that will make him search for more interesting material.",
+                    "page": 120
+                },
+                {
+                    "time": 1715851149,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "If the Writer Is Seen at Work, the Writing Won’t Work",
+                    "text": "If the writer is seen at work, the writing won’t work",
+                    "page": 121
+                },
+                {
+                    "time": 1715851763,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Avoid Clichés Like the Plague",
+                    "text": "Clichés, trite expressions, hackneyed phrases, and worn-out plots don’t work.\nWhy?\nThey don’t work because any time the reader comes upon a word or phrase or plot that he’s seen many times while reading, he realizes that he is reading. For a fraction of a second the spell is broken.",
+                    "page": 129
+                },
+                {
+                    "time": 1715851784,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Avoid Clichés Like the Plague",
+                    "text": "Instead of an original oil he’s giving the reader a painting-by-number.",
+                    "page": 129
+                },
+                {
+                    "time": 1715852125,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "text": "One of the ways words work is by causing the reader to connect things in his mind, to associate. Many of the words you use will cause him to make associations. Use words deliberately for this purpose when you can, and edit from your writing all words that elicit associations you don’t want made.",
+                    "page": 133
+                },
+                {
+                    "time": 1715852202,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "text": "By quickening the pace of your sentences, shortening them, you can play on the reader’s association of faster pace with hotter tempers:",
+                    "page": 134
+                },
+                {
+                    "time": 1715852296,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "text": "Small doses of wordiness are useful when creating a pompous character that you want the reader to associate wordiness with.",
+                    "page": 135
+                },
+                {
+                    "time": 1715852346,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "text": "Another way to use word associations to reinforce your images on the reader’s brain is with figurative terms that the reader will associate with literal terms found elsewhere. In other words, use imagery to remind him of facts.",
+                    "page": 136
+                },
+                {
+                    "time": 1715852357,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "note": "examples of imagery for association",
+                    "text": "If you interview a magician he might disappear into the kitchen to get some coffee. If you profile the mayor of Boston it might turn out that he doesn’t know beans about budget planning. A famous mountain climber might be high on success.",
+                    "page": 136
+                },
+                {
+                    "time": 1715852399,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Associations",
+                    "text": "Use these sparingly. Your goal is not to create puns, good or bad, but to strengthen the flavor of your story.",
+                    "page": 137
+                },
+                {
+                    "time": 1715852464,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Tone",
+                    "text": "In effect, the writer starts off by saying “Please listen to this. It’s very serious,” or “I don’t want to overdramatize this, but it is important,” or “Hey, let’s have a few laughs over this subject.”",
+                    "page": 139
+                },
+                {
+                    "time": 1715852479,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Tone",
+                    "text": "The writer sets the tone at the beginning of the piece, and if he does anything to contradict that tone, the writing doesn’t work.",
+                    "page": 139
+                },
+                {
+                    "time": 1715853208,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Intention",
+                    "text": "Every time you write something, you announce: There’s a reason why I’m telling you this.",
+                    "page": 148
+                },
+                {
+                    "time": 1715853222,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Intention",
+                    "text": "So don’t put in anything without a reason. The reader assumes intention on your part when you include a fact. You intend to get back to it, he thinks. You intend to make your character more believable with it. You intend to prove a point.",
+                    "page": 148
+                },
+                {
+                    "time": 1715853235,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Intention",
+                    "text": "lot of beginning writers, when they write true experiences or fiction based on true experiences, have a habit of tossing in all sorts of facts… just because they really happened",
+                    "page": 148
+                },
+                {
+                    "time": 1715916575,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appearance",
+                    "text": "The words you write have an appearance as well as a sound. They look like something. They have length, size, shape. They are surrounded by white space and interrupted by little marks called punctuation. The appearance of your writing is one more quality you can use to make it work.",
+                    "page": 163
+                },
+                {
+                    "time": 1715916620,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appearance",
+                    "text": "The white space on a page can also be used to influence the meaning of words.",
+                    "page": 163
+                },
+                {
+                    "time": 1715916631,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Appearance",
+                    "text": "You can also multiply the importance of a word or thought by putting it all alone on a page.",
+                    "page": 164
+                },
+                {
+                    "time": 1716352800,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Write Sentences About People",
+                    "note": "make people the subject of the sentence ysyally",
+                    "text": "Even when you are writing about unspecified persons such as “writers,” or “Hudson shopkeepers,” or “victims of this heinous crime,” you should still write about people, give people something to do.",
+                    "page": 180
+                },
+                {
+                    "time": 1716369324,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Don’t Take More Than You Need",
+                    "text": "The writer steers the reader’s brain onto a few of the millions of tracks available to it.",
+                    "page": 153
+                },
+                {
+                    "time": 1716369606,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Typecasting",
+                    "text": "If I’m proposing something that contradicts the accepted social image, I have to tell you. If I’m not, then I don’t",
+                    "page": 157
+                },
+                {
+                    "time": 1716370070,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Bringing Your Characters to Life",
+                    "text": "Use active voice. Don’t write “Success comes easily to her.” Write “She succeeds at everything she does.”",
+                    "page": 163
+                },
+                {
+                    "time": 1716370175,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Bringing Your Characters to Life",
+                    "text": "Make a list of one-word characters, such as golfer, acrobat, divorcee, singer, mayor, and mother.\nNow, without thinking about those characters, make a list of personal adjectives in front of that list, such as irate, depressed, lame, sentimental, and insane.\nYou now have a list that looks something like irate golfer, depressed acrobat, lame singer, sentimental mayor, and insane mother.\nTry to write a sentence or two that shows what each character is without telling the reader. Don’t use any of the words on your list. Try to show an irate golfer without using the words irate and golfer.",
+                    "page": 164
+                },
+                {
+                    "time": 1716371119,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Universal and the Specific",
+                    "text": "To make your readers feel something for your character, you must make your character a specific person. You must find that teddy bear so that your character emerges from forty-two passengers as an individual. You must show some specific characteristics.",
+                    "page": 171
+                },
+                {
+                    "time": 1716371138,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Universal and the Specific",
+                    "text": "But the feeling you’re trying to elicit in your readers is just the opposite. You’ve never met your readers, so you must strike a chord you know to be universal.",
+                    "page": 171
+                },
+                {
+                    "time": 1716371147,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Universal and the Specific",
+                    "text": "Find the specifics of character that unlock a universal emotion.",
+                    "page": 171
+                },
+                {
+                    "time": 1716371233,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Universal and the Specific",
+                    "text": "Much of writing has a mirror-image effect. The writer has an image in his mind, which he translates into words. The reader sees the words and translates them back into an image. The writer of fiction asks “If I felt nervous” (universal feeling) “what might I do?” (specific action).",
+                    "page": 172
+                },
+                {
+                    "time": 1716371781,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "What Dialogue Isn’t",
+                    "text": "dialogue that simply duplicates real speech doesn’t work. When real people get together they say real dull things like, “Hi, how are you?” and “I’m fine, how’s yourself?” and “See you later, I’m on my way to the store to pick up some cat food.” Zzz",
+                    "page": 195
+                },
+                {
+                    "time": 1716387123,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "When Should You Use Dialogue?",
+                    "text": "Perhaps the most important when I can give you is this: Use dialogue when there is tension between your characters.",
+                    "page": 197
+                },
+                {
+                    "time": 1716387277,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Tension",
+                    "text": "The reader should never have the sense that the speaker knew a half hour ago what he was going to say. Dialogue works best when it appears to be created at the moment, in response to the last words spoken. When you have two people speaking to each other, visualize each line of dialogue as having a hook on it that yanks out the next line of dialogue from the other character",
+                    "page": 199
+                },
+                {
+                    "time": 1716387495,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Tension",
+                    "text": "rarely Greenburg tells you who is speaking. But you always know because of the words spoken, the speaker’s relationship to the issue, and the speech patterns",
+                    "page": 202
+                },
+                {
+                    "time": 1716387511,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Tension",
+                    "text": "Try to make your dialogue specific to the character; write words that only he would say.",
+                    "page": 202
+                },
+                {
+                    "time": 1716387858,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Movement",
+                    "text": "create this sense of movement, of a continuous flow of action, you inject movement, even unnecessary movement, into the dialogue itself",
+                    "page": 209
+                },
+                {
+                    "time": 1716388304,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Don’t Be Afraid to Say “He Said”",
+                    "text": ". Use “he said” and “she said” and “the potato farmer said” to establish who is speaking, and return to them not with every exchange, but whenever there is a chance of the reader being uncertain about who is speaking",
+                    "page": 216
+                },
+                {
+                    "time": 1716388370,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Don’t Be Afraid to Say “He Said”",
+                    "text": "There are exceptions, but generally dialogue that works is dialogue that clearly communicates the feelings and intentions of the speaker without being boosted by synonyms for said or adverbs such as angrily or sadly.",
+                    "page": 217
+                },
+                {
+                    "time": 1716438021,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Dialogue Delivers Information",
+                    "text": "Dialogue sounds phony when people tell each other things they already know.",
+                    "page": 220
+                },
+                {
+                    "time": 1716438177,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Dialogue Delivers Information",
+                    "text": "Heavy-handed dialogue also occurs when one character tells another all kinds of things he didn’t ask for, for no apparent reason except that the writer couldn’t find a better place to provide the reader with the information.",
+                    "page": 222
+                },
+                {
+                    "time": 1716438770,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Setting the Scene",
+                    "text": "Messages are delivered by those parts of the scenery you choose to show. A city is polluted whether a young man in it is in love or not, but if you write “Romantic thoughts of Ann Marie danced in his head as he skipped through the bleak, smog-shrouded city,” your writing will not work.",
+                    "page": 239
+                },
+                {
+                    "time": 1716439146,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Apply the Rules of Style",
+                    "text": "Use active voice. Look frequently for the descriptive noun and give it some action to perform, instead of having it just sit there passively.\nInstead of the passive “There was mucky black water all over the cellar floor,” try the active “Mucky black water covered the cellar floor.”",
+                    "page": 242
+                },
+                {
+                    "time": 1716439462,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Putting Description in Motion",
+                    "text": "if you are going to capture reader attention your pictures have to move, too. So think of your description not as a photograph but as a motion picture.\nDescription that moves is description that works",
+                    "page": 249
+                },
+                {
+                    "time": 1716439482,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Putting Description in Motion",
+                    "text": "There are two ways you can set your description in motion. The first, which you can always do, is to put the description itself into action by using active verbs and pictures of movement. The second, which you can usually do, is to sprinkle the description throughout the action of the story.",
+                    "page": 249
+                },
+                {
+                    "time": 1716439619,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Putting Description in Motion",
+                    "text": "Don’t stop to admire the scenery. Reveal it through the action of the characters and the forward motion of the story. Think of the verbs. Have someone run his fingers over the books in the bookcase or sink into a cushioned wicker chair or lean over to sniff the roses in the vase. You’ll not only tell the reader there’s a bookcase, a wicker chair, and a vase of roses in the room, but you’ll also give him something interesting to watch while you’re doing",
+                    "page": 254
+                },
+                {
+                    "time": 1716439875,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Details That Work",
+                    "text": "But writing that works doesn’t just show the reader a picture. It also gets him to look at it in a certain way.",
+                    "page": 257
+                },
+                {
+                    "time": 1716439880,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Use Details That Work",
+                    "text": "if I wanted you to look at the pants as an aspect of this man’s sexuality, his attractiveness, the detail I choose might be tight",
+                    "page": 257
+                },
+                {
+                    "time": 1716440295,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Plants",
+                    "text": "In writing, you will often plant ideas in the reader’s brain in order to make subsequent incidents believable. Readers will believe anything if it’s consistent with information they’ve already got",
+                    "page": 263
+                },
+                {
+                    "time": 1716440310,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Plants",
+                    "text": "The job you want description to do in the case of plants is to firmly imprint on the reader’s brain the information that will make an incident believable when he recalls it later.",
+                    "page": 263
+                },
+                {
+                    "time": 1716956498,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Part 8",
+                    "text": "Giving up doesn’t work.\nPersistence works.\nMake every word count.",
+                    "page": 326
+                }
+            ]
+        },
+        {
+            "title": "Brave new world",
+            "number_of_pages": 405,
+            "file": "/mnt/onboard/Fiction/sci-fi/Brave_New_World.kepub.epub",
+            "author": "Aldous Huxley",
+            "entries": [
+                {
+                    "time": 1734759335,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Six",
+                    "text": "When the individual feels, the community reels,\" Lenina pronounced.\n \n\"Well, why shouldn't it reel a bit?\"",
+                    "page": 142
+                },
+                {
+                    "time": 1735129825,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Sixteen",
+                    "text": "Actual happiness always looks pretty squalid in comparison with the over-compensations for misery. And, of course, stability isn't nearly so spectacular as instability. And being contented has none of the glamour of a good fight against misfortune, none of the picturesqueness of a struggle with temptation, or a fatal overthrow by passion or doubt. Happiness is never grand.\"",
+                    "page": 342
+                },
+                {
+                    "time": 1735131942,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Seventeen",
+                    "text": "We are not our own any more than what we possess is our own. We did not make ourselves, we cannot be supreme over ourselves. We are not our own masters. We are God's property. Is it not our happiness thus to view the matter? Is it any happiness or any comfort, to consider that we are our own? It may be thought so by the young and prosperous. These may think it a great thing to have everything, as they suppose, their own way–to depend on no one–to have to think of nothing out of sight, to be without the irksomeness of continual acknowledgment, continual prayer, continual reference of what they do to the will of another. But as time goes on, they, as all men, will find that independence was not made for man–that it is an unnatural state–will do for a while, but will not carry us on safely to the end …'\"",
+                    "page": 359
+                },
+                {
+                    "time": 1735132317,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Seventeen",
+                    "text": "You remind me of another of those old fellows called Bradley. He defined philosophy as the finding of bad reason for what one believes by instinct. As if one believed anything by instinct! One believes things because one has been conditioned to believe them.",
+                    "page": 363
+                },
+                {
+                    "time": 1735133179,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Seventeen",
+                    "text": "My dear young friend,\" said Mustapha Mond, \"civilization has absolutely no need of nobility or heroism. These things are symptoms of political inefficiency. In a properly organized society like ours, nobody has any opportunities for being noble or heroic.",
+                    "page": 367
+                },
+                {
+                    "time": 1735133684,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter Seventeen",
+                    "text": "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.\"\n \n\"In fact,\" said Mustapha Mond, \"you're claiming the right to be unhappy.\"\n ",
+                    "page": 372
+                }
+            ]
+        },
+        {
+            "title": "On Writing: A Memoir of the Craft",
+            "number_of_pages": 479,
+            "file": "/mnt/onboard/Non-fiction/Stephen King - On Writing_ A Memoir of the Craft.epub",
+            "author": "Stephen King",
+            "entries": [
+                {
+                    "time": 1714361501,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 1",
+                    "text": "“When you write a story, you’re telling yourself the story,” he said. “When you rewrite, your main job is taking out all the things that are not the story.”",
+                    "page": 87
+                },
+                {
+                    "time": 1714386407,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 1",
+                    "text": "The most important is that the writer’s original perception of a character or characters may be as erroneous as the reader’s. Running a close second was the realization that stopping a piece of work just because it’s hard, either emotionally or imaginatively, is a bad idea. Sometimes you have to go on when you don’t feel like it, and sometimes you’re doing good work when it feels like all you’re managing is to shovel shit from a sitting position.",
+                    "page": 124
+                },
+                {
+                    "time": 1714402643,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 2 What Writing Is",
+                    "note": "writing is telepathy across space and time",
+                    "text": "We’ve engaged in an act of telepathy. No mythy-mountain shit; real telepathy.",
+                    "page": 174
+                },
+                {
+                    "time": 1714402772,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 2 What Writing Is",
+                    "note": "approach writing with the intent of engaged and meaningful work",
+                    "text": "Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page.",
+                    "page": 175
+                },
+                {
+                    "time": 1714452185,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "Put your vocabulary on the top shelf of your toolbox, and don’t make any conscious effort to improve it. (You’ll be doing that as you read, of course … but that comes later.) One of the really bad things you can do to your writing is to dress up the vocabulary, looking for long words because you’re maybe a little bit ashamed of your short ones.",
+                    "page": 187
+                },
+                {
+                    "time": 1714452250,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "Remember that the basic rule of vocabulary is use the first word that comes to your mind, if it is appropriate and colorful. If you hesitate and cogitate, you will come up with another word—of course you will, there’s always another word—but it probably won’t be as good as your first one, or as close to what you really mean.",
+                    "page": 188
+                },
+                {
+                    "time": 1714452280,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "The word is only a representation of the meaning; even at its best, writing almost always falls short of full meaning.",
+                    "page": 188
+                },
+                {
+                    "time": 1714462890,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "Nouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a sentence is, by definition, a group of words containing a subject (noun) and a predicate (verb);",
+                    "page": 192
+                },
+                {
+                    "time": 1714463310,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "note": "- [ ] add to reading list",
+                    "text": "you want to refurbish your grammar, go to your local used-book store and find a copy of Warriner’s English Grammar and Composition",
+                    "page": 195
+                },
+                {
+                    "time": 1714482725,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "Verbs come in two types, active and passive. With an active verb, the subject of the sentence is doing something. With a passive verb, something is being done to the subject of the sentence. The subject is just letting it happen. You should avoid the passive tense.",
+                    "page": 196
+                },
+                {
+                    "time": 1714485170,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "I believe the road to hell is paved with adverbs, and I will shout it from the rooftops.",
+                    "page": 201
+                },
+                {
+                    "time": 1714485267,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "can be a good sport about adverbs, though. Yes I can. With one exception: dialogue attribution. I insist that you use the adverb in dialogue attribution only in the rarest and most special of occasions … and not even then, if you can avoid it",
+                    "page": 202
+                },
+                {
+                    "time": 1714538520,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "The best form of dialogue attribution is said, as in he said, she said, Bill said, Monica said.",
+                    "page": 204
+                },
+                {
+                    "time": 1714644972,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "Topic-sentence-followed-by-support-and-description insists that the writer organize his/her thoughts, and it also provides good insurance against wandering away from the topic.",
+                    "page": 212
+                },
+                {
+                    "time": 1714645027,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "In fiction, the paragraph is less structured—it’s the beat instead of the actual melody.",
+                    "page": 213
+                },
+                {
+                    "time": 1714646150,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 3 Toolbox",
+                    "text": "A series of grammatically proper sentences can stiffen that line, make it less pliable. Purists hate to hear that and will deny it to their dying breath, but it’s true. Language does not always have to wear a tie and lace-up shoes",
+                    "page": 217
+                },
+                {
+                    "time": 1714648048,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "If you want to be a writer, you must do two things above all others: read a lot and write a lot. There’s no way around these two things that I’m aware of, no shortcut.",
+                    "page": 231
+                },
+                {
+                    "time": 1714649168,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book—something in which the reader can get happily lost, if the tale is done well and stays fresh",
+                    "page": 247
+                },
+                {
+                    "time": 1714661978,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "think you begin by interpreting “write what you know” as broadly and inclusively as possible. If you’re a plumber, you know plumbing, but that is far from the extent of your knowledge; the heart also knows things, and so does the imagination. Thank God. If not for heart and imagination, the world of fiction would be a pretty seedy place. It might not even exist at all",
+                    "page": 255
+                },
+                {
+                    "time": 1714711531,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Write what you like, then imbue it with life and make it unique by blending in your own personal knowledge of life, friendship, relationships, sex, and work.",
+                    "page": 260
+                },
+                {
+                    "time": 1714711807,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "I distrust plot for two reasons: first, because our lives are largely plotless, even when you add in all our reasonable precautions and careful planning; and second, because I believe plotting and the spontaneity of real creation aren’t compatible.",
+                    "page": 264
+                },
+                {
+                    "time": 1714711912,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Plot is, I think, the good writer’s last resort and the dullard’s first choice. The story which results from it is apt to feel artificial and labored.",
+                    "page": 266
+                },
+                {
+                    "time": 1714711924,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "lean more heavily on intuition, and have been able to do that because my books tend to be based on situation rather than story",
+                    "page": 266
+                },
+                {
+                    "time": 1714711963,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "My job isn’t to help them work their way free, or manipulate them to safety—those are jobs which require the noisy jackhammer of plot—but to watch what happens and then write it down.",
+                    "page": 267
+                },
+                {
+                    "time": 1714711984,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "The situation comes first. The characters—always flat and unfeatured, to begin with—come next. Once these things are fixed in my mind, I begin to narrate. I often have an idea of what the outcome may be, but I have never demanded of a set of characters that they do things my way. On the contrary, I want them to do things their way.",
+                    "page": 267
+                },
+                {
+                    "time": 1714788711,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Thin description leaves the reader feeling bewildered and nearsighted. Overdescription buries him or her in details and images. The trick is to find a happy medium. It’s also important to know what to describe and what can be left alone while you get on with your main job, which is telling a story.",
+                    "page": 285
+                },
+                {
+                    "time": 1714788835,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "good description usually consists of a few well-chosen details that will stand for everything else. In most cases, these details will be the first ones that come to mind.",
+                    "page": 287
+                },
+                {
+                    "time": 1714788851,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "You should remember (and your reading will prove it over and over again should you begin to doubt) that it’s as easy to overdescribe as to underdescribe. Probably easier.",
+                    "page": 287
+                },
+                {
+                    "time": 1714789421,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "In many cases when a reader puts a story aside because it “got boring,” the boredom arose because the writer grew enchanted with his powers of description and lost sight of his priority, which is to keep the ball rolling.",
+                    "page": 292
+                },
+                {
+                    "time": 1714789654,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "gained perhaps even more respect for the power of compact, descriptive language from reading T. S. Eliot (those ragged claws scuttling across the ocean floor; those coffee spoons",
+                    "page": 295
+                },
+                {
+                    "time": 1714790671,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "cuntivore",
+                    "page": 309
+                },
+                {
+                    "time": 1714806094,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Some people don’t want to hear the truth, of course, but that’s not your problem. What would be is wanting to be a writer without wanting to shoot straight. Talk, whether ugly or beautiful, is an index of character; it can also be a breath of cool, refreshing air in a room some people would prefer to keep shut up.",
+                    "page": 312
+                },
+                {
+                    "time": 1714907148,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Skills in description, dialogue, and character development all boil down to seeing or hearing clearly and then transcribing what you see or hear with equal clarity (and without using a lot of tiresome, unnecessary adverbs).",
+                    "page": 324
+                },
+                {
+                    "time": 1714910662,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "starting with the questions and thematic concerns is a recipe for bad fiction. Good fiction always begins with story and progresses to theme; it almost never begins with theme and progresses to story. The only possible exceptions to this rule that I can think of are allegories like George Orwell’s Animal Farm",
+                    "page": 348
+                },
+                {
+                    "time": 1715265841,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "Call that one person you write for Ideal Reader. He or she is going to be in your writing room all the time: in the flesh once you open the door and let the world back in to shine on the bubble of your dream, in spirit during the sometimes troubling and often exhilarating days of the first draft, when the door is closed.",
+                    "page": 368
+                },
+                {
+                    "time": 1715266288,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "You need to revise for length. Formula: 2nd Draft = 1st Draft - 10%. Good luck.”",
+                    "page": 375
+                },
+                {
+                    "time": 1715528146,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "The most important things to remember about back story are that (a) everyone has a history and (b) most of it isn’t very interesting. Stick to the parts that are, and don’t get carried away with the rest.",
+                    "page": 383
+                },
+                {
+                    "time": 1715529248,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4 On Writing",
+                    "text": "You learn best by reading a lot and writing a lot, and the most valuable lessons of all are the ones you teach yourself. These lessons almost always occur with the study door closed.",
+                    "page": 401
+                }
+            ]
+        },
+        {
+            "title": "Children of Dune",
+            "number_of_pages": 823,
+            "file": "/mnt/onboard/Fiction/sci-fi/Frank Herbert - Children of Dune.epub",
+            "author": "Frank Herbert",
+            "entries": [
+                {
+                    "time": 1741567208,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 13",
+                    "text": "“The universe as we see it is never quite the exact physical universe,”",
+                    "page": 166
+                },
+                {
+                    "time": 1741753844,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 22",
+                    "text": "Good government never depends upon laws, but upon the personal qualities of those who govern. The machinery of government is always subordinate to the will of those who administer that machinery. The most important element of government, therefore, is the method of choosing leaders.",
+                    "page": 310
+                },
+                {
+                    "time": 1741775453,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 24",
+                    "text": "When I am weaker than you, I ask you for freedom because that is according to your principles; when I am stronger than you, I take away your freedom because that is according to my principles.",
+                    "page": 347
+                },
+                {
+                    "time": 1741787853,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 25",
+                    "text": "of explaining this particular error to her student, Jessica. “If you focus your awareness only upon your own rightness, then you invite the forces of opposition to overwhelm you. This is a common error. Even I, your teacher, have made it.",
+                    "page": 361
+                },
+                {
+                    "time": 1741788896,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 26",
+                    "text": "The universe is just there; that’s the only way a Fedaykin can view it and remain the master of his senses. The universe neither threatens nor promises. It holds things beyond our sway: the fall of a meteor, the eruption of a spiceblow, growing old and dying. These are the realities of this universe and they must be faced regardless of how you feel about them. You cannot fend off such realities with words. They will come at you in their own wordless way and then, then you will understand what is meant by “life and death.” Understanding this, you will be filled with joy.",
+                    "page": 372
+                },
+                {
+                    "time": 1741873766,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 28",
+                    "text": "Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class—whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.",
+                    "page": 394
+                },
+                {
+                    "time": 1741909202,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 30",
+                    "text": "all major socializing forces you will find an underlying movement to gain and maintain power through the use of words. From witch doctor to priest to bureaucrat it is all the same. A governed populace must be conditioned to accept power-words as actual things, to confuse the symbolized system with the tangible universe. In the maintenance of such a power structure, certain symbols are kept out of the reach of common understanding—symbols such as those dealing with economic manipulation or those which define the local interpretation of sanity. Symbol-secrecy of this form leads to the development of fragmented sub-languages, each being a signal that its users are accumulating some form of power. With this insight into a power process, our Imperial Security Force must be ever alert to the formation of sub-languages.",
+                    "page": 415
+                },
+                {
+                    "time": 1741927923,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "This moment here is the only observable time and place for us in our universe. I tell you to savor this moment and understand what it teaches.",
+                    "page": 457
+                },
+                {
+                    "time": 1741927936,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "a government’s growth and its death are apparent in the growth and death of its citizens",
+                    "page": 457
+                },
+                {
+                    "time": 1741928184,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "“If you would possess your humanity, let go of the universe!”",
+                    "page": 459
+                },
+                {
+                    "time": 1741940997,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "“Most lives are a flight from selfhood. Most prefer the truths of the stable. You stick your heads into the stanchions and munch contentedly until you die.",
+                    "page": 459
+                },
+                {
+                    "time": 1741946053,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "“Abandon certainty! That’s life’s deepest command.",
+                    "page": 464
+                },
+                {
+                    "time": 1741998903,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 34",
+                    "text": "In human affairs, nothing remains enduring; all human affairs revolve in a helix, moving around and out.",
+                    "page": 476
+                },
+                {
+                    "time": 1742089029,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 38",
+                    "text": "Because of the one-pointed Time awareness in which the conventional mind remains immersed, humans tend to think of everything in a sequential, word-oriented framework. This mental trap produces very short-term concepts of effectiveness and consequences, a condition of constant, unplanned response to crises.",
+                    "page": 511
+                },
+                {
+                    "time": 1742106626,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 39",
+                    "text": "Time is a measure of space, just as a range-finder is a measure of space, but measuring locks us into the place we measure.",
+                    "page": 524
+                },
+                {
+                    "time": 1742468747,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 49",
+                    "text": "Men must want to do things out of their own innermost drives. People, not commercial organizations or chains of command, are what make great civilizations work. Every civilization depends upon the quality of the individuals it produces. If you over-organize humans, over-legalize them, suppress their urge to greatness—they cannot work and their civilization collapses.",
+                    "page": 619
+                },
+                {
+                    "time": 1742958132,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 52",
+                    "text": "“Languages build up to reflect specializations in a way of life. Each specialization may be recognized by its words, by its assumptions and sentence structures. Look for stoppages. Specializations represent places where life is being stopped, where the movement is dammed up and frozen.”",
+                    "page": 656
+                },
+                {
+                    "time": 1743087854,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 56",
+                    "text": "After the Fremen, all Planetologists see life as expressions of energy and look for the overriding relationships. In small pieces, bits and parcels which grow into general understanding, the Fremen racial wisdom is translated into a new certainty. The thing Fremen have as a people, any people can have. They need but develop a sense for energy relationships. They need but observe that energy soaks up the patterns of things and builds with those patterns.",
+                    "page": 718
+                },
+                {
+                    "time": 1743482495,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 63",
+                    "text": "The assumption that a whole system can be made to work better through an assault on its conscious elements betrays a dangerous ignorance.",
+                    "page": 792
+                },
+                {
+                    "time": 1743516427,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 64",
+                    "text": "“There’s always a prevailing mystique in any civilization,” Leto said. “It builds itself as a barrier against change, and that always leaves future generations unprepared for the universe’s treachery. All mystiques are the same in building these barriers—the religious mystique, the hero-leader mystique, the messiah mystique, the mystique of science/technology, and the mystique of nature itself.",
+                    "page": 810
+                },
+                {
+                    "time": 1743517294,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "When I Was Writing Dune",
+                    "text": "Looking back on it, I realize I did the right thing instinctively. You don’t write for success. That takes part of your attention away from the writing. If you’re really doing it, that’s all you’re doing: writing.",
+                    "page": 821
+                }
+            ]
+        },
+        {
+            "title": "God Emperor of Dune",
+            "number_of_pages": 757,
+            "file": "/mnt/onboard/Fiction/sci-fi/Frank Herbert - God Emperor of Dune.epub",
+            "author": "Frank Herbert",
+            "entries": [
+                {
+                    "time": 1743639189,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 2",
+                    "text": "All rebellions are ordinary and an ultimate bore. They are copied out of the same pattern, one much like another. The driving force is adrenalin addiction and the desire to gain personal power. All rebels are closet aristocrats.",
+                    "page": 67
+                },
+                {
+                    "time": 1743686972,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 4",
+                    "text": "government is a shared myth. When the myth dies, the government dies",
+                    "page": 92
+                },
+                {
+                    "time": 1743687307,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 5",
+                    "text": "It has occurred to me more than once that holy boredom is good and sufficient reason for the invention of free will.",
+                    "page": 96
+                },
+                {
+                    "time": 1744030639,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 10",
+                    "text": "The influence of geography on history went mostly unrecognized, Leto thought. Humans tended to look more at the influence of history on geography.",
+                    "page": 161
+                },
+                {
+                    "time": 1744034241,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 12",
+                    "text": "I know the evil of my ancestors because I am those people. The balance is delicate in the extreme. I know that few of you who read my words have ever thought about your ancestors this way. It has not occurred to you that your ancestors were survivors and that the survival itself sometimes involved savage decisions, a kind of wanton brutality which civilized humankind works very hard to suppress. What price will you pay for that suppression? Will you accept your own extinction?",
+                    "page": 187
+                },
+                {
+                    "time": 1744330388,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 20",
+                    "text": "From that welter of memories which I can tap at will, patterns emerge. They are like another language which I see so clearly. The social-alarm signals which put societies into the postures of defense/attack are like shouted words to me. As a people, you react against threats to innocence and the peril of the helpless young. Unexplained sounds, visions and smells raise the hackles you have forgotten you possess. When alarmed, you cling to your native language because all the other patterned sounds are strange. You demand acceptable dress because a strange costume is threatening. This is system-feedback at its most primitive level. Your cells remember.",
+                    "page": 296
+                },
+                {
+                    "time": 1744347419,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 21",
+                    "text": "Safaris through ancestral memories teach me many things. The patterns, ahhh, the patterns. Liberal bigots are the ones who trouble me most. I distrust the extremes. Scratch a conservative and you find someone who prefers the past over any future. Scratch a liberal and find a closet aristocrat. It’s true! Liberal governments always develop into aristocracies. The bureaucracies betray the true intent of people who form such governments. Right from the first, the little people who formed the governments which promised to equalize the social burdens found themselves suddenly in the hands of bureaucratic aristocracies. Of course, all bureaucracies follow this pattern, but what a hypocrisy to find this even under a communized banner. Ahhh, well, if patterns teach me anything it’s that patterns are repeated. My oppressions, by and large, are no worse than any of the others and, at least, I teach a new lesson.",
+                    "page": 307
+                },
+                {
+                    "time": 1745114047,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 22",
+                    "text": "trance-state of prophecy is like no other visionary experience. It is not a retreat from the raw exposure of the senses (as are many trance-states) but an immersion in a multitude of new movements. Things move. It is an ultimate pragmatism in the midst of Infinity, a demanding consciousness where you come at last into the unbroken awareness that the universe moves of itself, that it changes, that its rules change, that nothing remains permanent or absolute throughout all such movement, that mechanical explanations for anything can work only within precise confinements and, once the walls are broken down, the old explanations shatter and dissolve, blown away by new movements. The things you see in this trance are sobering, often shattering. They demand your utmost effort to remain whole and, even so, you emerge from that state profoundly changed",
+                    "page": 333
+                },
+                {
+                    "time": 1745137441,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 27",
+                    "text": "“Time can also be a place, Moneo,” Leto said. “Everything depends upon where you are standing, on where you look or what you hear. The measure of it is found in consciousness itself.”",
+                    "page": 424
+                },
+                {
+                    "time": 1745142865,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 28",
+                    "text": "“This wise man observed that wealth is a tool of freedom. But the pursuit of wealth is the way to slavery.”",
+                    "page": 435
+                },
+                {
+                    "time": 1745152845,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 31",
+                    "text": "But the tripod upon which Eternity swings is composed of flesh and thought and emotion.",
+                    "page": 478
+                },
+                {
+                    "time": 1745157061,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 33",
+                    "text": "“Paradox is a pointer telling you to look beyond it. If paradoxes bother you, that betrays your deep desire for absolutes. The relativist treats a paradox merely as interesting, perhaps amusing or even, dreadful thought, educational.”",
+                    "page": 504
+                },
+                {
+                    "time": 1745158511,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 34",
+                    "text": "The pattern of monarchies and similar systems has a message of value for all political forms. My memories assure me that governments of any kind could profit from this message. Governments can be useful to the governed only so long as inherent tendencies toward tyranny are restrained. Monarchies have some good features beyond their star qualities. They can reduce the size and parasitic nature of the management bureaucracy. They can make speedy decisions when necessary. They fit an ancient human demand for a parental (tribal/feudal) hierarchy where every person knows his place. It is valuable to know your place, even if that place is temporary. It is galling to be held in place against your will. This is why I teach about tyranny in the best possible way—by example. Even though you read these words after a passage of eons, my tyranny will not be forgotten. My Golden Path assures this. Knowing my message, I expect you to be exceedingly careful about the powers you delegate to any government.",
+                    "page": 511
+                },
+                {
+                    "time": 1745412272,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 36",
+                    "text": "“Religious institutions perpetuate a mortal master-servant relationship,” Leto said. “They create an arena which attracts prideful human power-seekers with all of their nearsighted prejudices!”",
+                    "page": 552
+                },
+                {
+                    "time": 1745415107,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 37",
+                    "text": "The realization of what I am occurs in the timeless awareness which does not stimulate nor delude. I create a field without self or center, a field where even death becomes only analogy. I desire no results. I merely permit this field which has no goals nor desires, no perfections nor even visions of achievements. In that field, omnipresent primal awareness is all. It is the light which pours through the windows of my universe.",
+                    "page": 555
+                },
+                {
+                    "time": 1745416998,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 39",
+                    "text": "you know what guerrillas often say? They claim that their rebellions are invulnerable to economic warfare because they have no economy, that they are parasitic on those they would overthrow. The fools merely fail to assess the coin in which they must inevitably pay. The pattern is inexorable in its degenerative failures. You see it repeated in the systems of slavery, of welfare states, of caste-ridden religions, of socializing bureaucracies—in any system which creates and maintains dependencies. Too long a parasite and you cannot exist without a host.",
+                    "page": 583
+                },
+                {
+                    "time": 1745419389,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 41",
+                    "text": "Systems incorporate the unexamined beliefs of their creators. Adopt a system, accept its beliefs, and you help strengthen the resistance to change.",
+                    "page": 616
+                },
+                {
+                    "time": 1745487913,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 44",
+                    "text": "Most civilization is based on cowardice. It’s so easy to civilize by teaching cowardice. You water down the standards which would lead to bravery. You restrain the will. You regulate the appetites. You fence in the horizons. You make a law for every movement. You deny the existence of chaos. You teach even the children to breathe slowly. You tame.",
+                    "page": 657
+                },
+                {
+                    "time": 1745843829,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 47",
+                    "text": "Moneo is trapped. He has learned that it is difficult to live in the present, pointless to live in the future and impossible to live in the past.”",
+                    "page": 696
+                },
+                {
+                    "time": 1745846066,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Chapter 49",
+                    "text": "demonstrate the terrible danger of a gliding, passionless mediocrity, a movement without ambitions or aims. I",
+                    "page": 719
+                }
+            ]
+        },
+        {
+            "title": "Elements of Style: Classic Edition (2018)",
+            "number_of_pages": 169,
+            "file": "/mnt/onboard/Non-fiction/Richard De A'Morelli - Elements of Style_ Classic Edition (2018).epub",
+            "author": "Richard De A'Morelli",
+            "entries": [
+                {
+                    "time": 1712153855,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Three Essentials of Effective Writing",
+                    "text": "The three essentials of effective writing in the English language are: purity, perspicuity, and precision.",
+                    "page": 23
+                },
+                {
+                    "time": 1712153895,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Three Essentials of Effective Writing",
+                    "text": "Perspicuity denotes clear expression of thoughts conveyed in unequivocal language, so there is no misunderstanding of the thought or idea that the writer wishes to express. Ambiguous words, words of double meaning, and words that might be construed in a sense different from that intended should be avoided. Perspicuity requires a style that is clear and concise.",
+                    "page": 23
+                },
+                {
+                    "time": 1712153911,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Three Essentials of Effective Writing",
+                    "text": "Precision requires concise and exact expression, free from redundancy–a style that is clear and simple enough so that the reader can immediately comprehend the meaning of the writer's words.",
+                    "page": 23
+                },
+                {
+                    "time": 1712153949,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "George Orwell’s Advice to Writers",
+                    "note": "george orwells advice for writing",
+                    "text": "—Never use a long word where a short one will do.\n—If it is possible to cut a word out, always cut it out.\n—Never use the passive where you can use the active.\n—Never use a foreign phrase, a scientific word, or jargon if you can think of an everyday English equivalent to use instead.\n—A scrupulous writer, in every sentence that he writes, will ask himself at least four questions: 1. What am I trying to say? 2. What words will express it? 3. What image or idiom will make it clearer? 4. Is this image fresh enough to have an effect?",
+                    "page": 24
+                },
+                {
+                    "time": 1712155804,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Rule 3. Enclose parenthetic expressions between commas.",
+                    "text": "a parenthetic expression is preceded by a conjunction, write the first comma before the conjunction, not after it.\n☺ He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile",
+                    "page": 29
+                }
+            ]
+        },
+        {
+            "title": "Peak",
+            "number_of_pages": 757,
+            "file": "/mnt/onboard/Non-fiction/Peak Secrets from the New Science of Expertise.kepub.epub",
+            "author": "Anders Ericsson",
+            "entries": [
+                {
+                    "time": 1710063205,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "this even if he was in another room and could not see the instrument being played, and he could do it not just for the violin and fortepiano but for every instrument he heard—and Mozart’s father, as a composer and music teacher, had",
+                    "page": 12
+                },
+                {
+                    "time": 1712758239,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "But since the 1990s brain researchers have come to realize that the brain—even the adult brain—is far more adaptable than anyone ever imagined, and this gives us a tremendous amount of control over what our brains are able to do.",
+                    "page": 18
+                },
+                {
+                    "time": 1712758275,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "New connections are made between neurons, while existing connections can be strengthened or weakened, and in some parts of the brain it is even possible for new neurons to grow",
+                    "page": 19
+                },
+                {
+                    "time": 1712758868,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "no longer makes sense to think of people as born with fixed reserves of potential; instead, potential is an expandable vessel, shaped by the various things we do throughout our lives",
+                    "page": 26
+                },
+                {
+                    "time": 1712758932,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.",
+                    "page": 27
+                },
+                {
+                    "time": 1712759023,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction: The Gift",
+                    "text": "the most effective approaches to improving performance all follow a single set of general principles. We named this universal approach “deliberate practice.” Today deliberate practice remains the gold standard for anyone in any field who wishes to take advantage of the gift of adaptability in order to build new skills and abilities,",
+                    "page": 28
+                },
+                {
+                    "time": 1712810114,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "There are various sorts of practice that can be effective to one degree or another, but one particular form—which I named “deliberate practice” back in the early 1990s—is the gold standard.",
+                    "page": 49
+                },
+                {
+                    "time": 1712810369,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "note": "this is not optimal",
+                    "text": "We all follow pretty much the same pattern with any skill we learn, from baking a pie to writing a descriptive paragraph. We start off with a general idea of what we want to do, get some instruction from a teacher or a coach or a book or a website, practice until we reach an acceptable level, and then let it become automatic.",
+                    "page": 53
+                },
+                {
+                    "time": 1712810456,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Research has shown that, generally speaking, once a person reaches that level of “acceptable” performance and automaticity, the additional years of “practice” don’t lead to improvement. If anything, the doctor or the teacher or the driver who’s been at it for twenty years is likely to be a bit worse than the one who’s been doing it for only five, and the reason is that these automated abilities gradually deteriorate in the absence of deliberate efforts to improve.",
+                    "page": 54
+                },
+                {
+                    "time": 1712810551,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Purposeful practice has several characteristics that set it apart from what we might call “naive practice,” which is essentially just doing something repeatedly, and expecting that the repetition alone will improve one’s performance.",
+                    "page": 56
+                },
+                {
+                    "time": 1712810576,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Purposeful practice has well-defined, specific goals.",
+                    "page": 57
+                },
+                {
+                    "time": 1712810691,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "The key thing is to take that general goal—get better—and turn it into something specific that you can work on with a realistic expectation of improvement.",
+                    "page": 59
+                },
+                {
+                    "time": 1712810837,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "You seldom improve much without giving the task your full attention.",
+                    "page": 61
+                },
+                {
+                    "time": 1712810848,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Purposeful practice involves feedback.",
+                    "page": 61
+                },
+                {
+                    "time": 1712810994,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Purposeful practice requires getting out of one’s comfort zone.",
+                    "page": 62
+                },
+                {
+                    "time": 1712811028,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "This is a fundamental truth about any sort of practice: If you never push yourself beyond your comfort zone, you will never improve.",
+                    "page": 63
+                },
+                {
+                    "time": 1712811119,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "note": "add to reading list",
+                    "text": "publisher of Poor Richard’s Almanack",
+                    "page": 64
+                },
+                {
+                    "time": 1712811200,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "But sometimes you run into something that stops you cold and it seems like you’ll never be able to do it. Finding ways around these barriers is one of the hidden keys to purposeful practice.",
+                    "page": 65
+                },
+                {
+                    "time": 1712811211,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "Generally the solution is not “try harder” but rather “try differently.”",
+                    "page": 66
+                },
+                {
+                    "time": 1712811282,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "note": "there may be multiple barriers in oursu of the same skill. multiple technique changed may be necessary",
+                    "text": "This was a regular pattern throughout the entire memory study: Steve would improve up to a point, get stuck, look around for a different approach that could help him get past the barrier, find it, and then improve steadily until another barrier arose.",
+                    "page": 66
+                },
+                {
+                    "time": 1712905327,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "So here we have purposeful practice in a nutshell: Get outside your comfort zone but do it in a focused way, with clear goals, a plan for reaching those goals, and a way to monitor your progress. Oh, and figure out a way to maintain your motivation.",
+                    "page": 83
+                },
+                {
+                    "time": 1712905478,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Power of Purposeful Practice",
+                    "text": "the key to improved mental performance of almost any sort is the development of mental structures that make it possible to avoid the limitations of short-term memory and deal effectively with large amounts of information at once.",
+                    "page": 86
+                },
+                {
+                    "time": 1712988269,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "Maguire found that a particular part of the hippocampus—the posterior, or rear, part—was larger in the taxi drivers than in the other subjects.",
+                    "page": 101
+                },
+                {
+                    "time": 1712988321,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "whatever was responsible for the difference in the size of the posterior hippocampi was not related to the driving itself but rather was related specifically to the navigational skills that the job required",
+                    "page": 102
+                },
+                {
+                    "time": 1712988388,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "What she found would have been no surprise if she had been measuring biceps in bodybuilders, but she wasn’t—she was measuring the sizes of different parts of the brain—and so the result was startling. The volume of the posterior hippocampi had gotten significantly larger in the group of trainees who had continued their training and had become licensed taxi drivers. By contrast, there was no change in the size of the posterior hippocampi among the prospective taxi drivers who had failed to become licensed (either because they simply stopped training or because they could not pass the tests) or among the subjects who had never had anything to do with the taxi training program",
+                    "page": 104
+                },
+                {
+                    "time": 1712988452,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "Maguire’s study, which was published in 2011, is perhaps the most dramatic evidence we have that the human brain grows and changes in response to intense training.",
+                    "page": 105
+                },
+                {
+                    "time": 1712988807,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "It is possible to shape the brain—your brain, my brain, anybody’s brain—in the ways that we desire through conscious, deliberate training.",
+                    "page": 112
+                },
+                {
+                    "time": 1712995924,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "One major difference between the body and the brain is that the cells in the adult brain do not generally divide and form new brain cells. There are a few exceptions, such as in the hippocampus, where new neurons can grow, but in most parts of the brain the changes that occur in response to a mental challenge—such as the contrast training used to improve people’s vision—won’t include the development of new neurons. Instead, the brain rewires those networks in various ways—by strengthening or weakening the various connections between neurons and also by adding new connections or getting rid of old ones.",
+                    "page": 123
+                },
+                {
+                    "time": 1712996180,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "Recent studies have shown that learning a new skill is much more effective at triggering structural changes in the brain than simply continuing to practice a skill that one has already learned.",
+                    "page": 124
+                },
+                {
+                    "time": 1713001357,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Harnessing Adaptability",
+                    "text": "practicing the piano as a child will lead to certain neurological advantages that you just can’t match with practice as an adult.",
+                    "page": 134
+                },
+                {
+                    "time": 1713104381,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "chess masters don’t develop some incredible memory for where individual pieces sit on a board. Instead, their memory is very context-dependent: it is only for patterns of the sort that would appear in a normal game.",
+                    "page": 156
+                },
+                {
+                    "time": 1713104521,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "The way that grandmasters process and make sense of chess positions is an example of a mental representation. It is their way of “seeing” the board, and it’s quite different from how a novice would see the same board.",
+                    "page": 158
+                },
+                {
+                    "time": 1713104680,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "mental representation is a mental structure that corresponds to an object, an idea, a collection of information, or anything else, concrete or abstract, that the brain is thinking about. A simple example is a visual image. Mention the Mona Lisa, for instance, and many people will immediately “see” an image of the painting",
+                    "page": 161
+                },
+                {
+                    "time": 1713104910,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "essence these representations are preexisting patterns of information—facts, images, rules, relationships, and so on—that are held in long-term memory and that can be used to respond quickly and effectively in certain types of situations. The thing all mental representations have in common is that they make it possible to process large amounts of information quickly, despite the limitations of short-term memory",
+                    "page": 166
+                },
+                {
+                    "time": 1713105113,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "What sets expert performers apart from everyone else is the quality and quantity of their mental representations.",
+                    "page": 168
+                },
+                {
+                    "time": 1713105254,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "The main thing that sets experts apart from the rest of us is that their years of practice have changed the neural circuitry in their brains to produce highly specialized mental representations, which in turn make possible the incredible memory, pattern recognition, problem solving, and other sorts of advanced abilities needed to excel in their particular specialties.",
+                    "page": 170
+                },
+                {
+                    "time": 1713106005,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "This is a major advantage of highly developed mental representations: you can assimilate and consider a great deal more information at once.",
+                    "page": 187
+                },
+                {
+                    "time": 1713106287,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "Relatively few of us climb rocks or perform surgeries, but almost everyone writes, and the process of writing offers us an excellent example of how mental representations can be used in planning.",
+                    "page": 193
+                },
+                {
+                    "time": 1713106531,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "The main purpose of deliberate practice is to develop effective mental representations,",
+                    "page": 198
+                },
+                {
+                    "time": 1713106591,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "There was a steady interplay between the writing of the book and our conceptualization of the topic, and as we looked for ways to make our messages clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming,” as opposed to “knowledge telling,” because the process of writing changes and adds to the knowledge that the writer had when starting out.",
+                    "page": 199
+                },
+                {
+                    "time": 1713107008,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Mental Representations",
+                    "text": "the relationship between skill and mental representations is a virtuous circle: the more skilled you become, the better your mental representations are, and the better your mental representations are, the more effectively you can practice to hone your skill.",
+                    "page": 207
+                },
+                {
+                    "time": 1713109058,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "In the most highly developed fields—the ones that have benefited from many decades or even centuries of steady improvement, with each generation passing on the lessons and skills it has learned to the next—the approach to individualized practice is amazingly uniform. No matter where you look—musical performance, ballet, or sports such as figure skating or gymnastics—you will find that training follows a very similar set of principles.",
+                    "page": 244
+                },
+                {
+                    "time": 1713109224,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "short, we were saying that deliberate practice is different from other sorts of purposeful practice in two important ways: First, it requires a field that is already reasonably well developed",
+                    "page": 245
+                },
+                {
+                    "time": 1713109242,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": ", deliberate practice requires a teacher who can provide practice activities designed to help a student improve his or her performance",
+                    "page": 247
+                },
+                {
+                    "time": 1713109314,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "In short, deliberate practice is characterized by the following traits:\nDeliberate practice develops skills that other people have already figured out how to do and for which effective training techniques have been established. The practice regimen should be designed and overseen by a teacher or coach who is familiar with the abilities of expert performers and with how those abilities can best be developed.\nDeliberate practice takes place outside one’s comfort zone and requires a student to constantly try things that are just beyond his or her current abilities. Thus it demands near-maximal effort, which is generally not enjoyable.\nDeliberate practice involves well-defined, specific goals and often involves improving some aspect of the target performance; it is not aimed at some vague overall improvement. Once an overall goal has been set, a teacher or coach will develop a plan for making a series of small changes that will add up to the desired larger change. Improving some aspect of the target performance allows a performer to see that his or her performances have been improved by the training.\nDeliberate practice is deliberate, that is, it requires a person’s full attention and conscious actions. It isn’t enough to simply follow a teacher’s or coach’s directions. The student must concentrate on the specific goal for his or her practice activity so that adjustments can be made to control practice.\nDeliberate practice involves feedback and modification of efforts in response to that feedback. Early in the training process much of the feedback will come from the teacher or coach, who will monitor progress, point out problems, and offer ways to address those problems. With time and experience students must learn to monitor themselves, spot mistakes, and adjust accordingly. Such self-monitoring requires effective mental representations.\nDeliberate practice both produces and depends on effective mental representations. Improving performance goes hand in hand with improving mental representations; as one’s performance improves, the representations become more detailed and effective, in turn making it possible to improve even more. Mental representations make it possible to monitor how one is doing, both in practice and in actual performance. They show the right way to do something and allow one to notice when doing something wrong and to correct it.\nDeliberate practice nearly always involves building or modifying previously acquired skills by focusing on particular aspects of those skills and working to improve them specifically; over time this step-by-step improvement will eventually lead to expert performance. Because of the way that new skills are built on top of existing skills, it is important for teachers to provide beginners with the correct fundamental skills in order to minimize the chances that the student will have to relearn those fundamental skills later when at a more advanced level.",
+                    "page": 247
+                },
+                {
+                    "time": 1713109906,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "This is the basic blueprint for getting better in any pursuit: get as close to deliberate practice as you can. If you’re in a field where deliberate practice is an option, you should take that option. If not, apply the principles of deliberate practice as much as possible.",
+                    "page": 256
+                },
+                {
+                    "time": 1713109920,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "first, identify the expert performers, then figure out what they do that makes them so good, then come up with training techniques that allow you to do it, too.",
+                    "page": 257
+                },
+                {
+                    "time": 1713109994,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "you are trying to identify the best performers in an area that lacks rules-based, head-to-head competition or clear, objective measures of performance (such as scores or times), keep this one thing at the front of your mind: subjective judgments are inherently vulnerable to all sorts of biases",
+                    "page": 258
+                },
+                {
+                    "time": 1713110155,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "Research has shown that the “experts” in many fields don’t perform reliably better than other, less highly regarded members of the profession—or sometimes",
+                    "page": 261
+                },
+                {
+                    "time": 1713110291,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "The lesson here is clear: be careful when identifying expert performers. Ideally you want some objective measure of performance with which to compare people’s abilities. If no such measures exist, get as close as you can. For example, in areas where a person’s performance or product can be observed directly—a screenwriter, say, or a programmer—the judgment of peers is a good place to start,",
+                    "page": 262
+                },
+                {
+                    "time": 1713110381,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "good rule of thumb is to seek out people who work intimately with many other professionals, such as a nurse who plays a role on several different surgery teams and can compare their performance and identify the best",
+                    "page": 263
+                },
+                {
+                    "time": 1713110448,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "Then look for those people who score highest in the areas you believe are key to superior performance. Remember that the ideal is to find objective, reproducible measures that consistently distinguish the best from the rest, and if that ideal is not possible, approximate it as well as you can.",
+                    "page": 264
+                },
+                {
+                    "time": 1713110468,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "next step is to figure out specifically what they do that separates them from other, less accomplished people in the same field, and what training methods helped them get there",
+                    "page": 264
+                },
+                {
+                    "time": 1713110718,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "Lesson: Once you have identified an expert, identify what this person does differently from others that could explain the superior performance.",
+                    "page": 267
+                },
+                {
+                    "time": 1713110859,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "a good teacher can give you valuable feedback you couldn’t get any other way. Effective feedback is about more than whether you did something right or wrong. A good math teacher, for instance, will look at more than the answer to a problem; he’ll look at exactly how the student got the answer as a way of understanding the mental representations the student was using. If needed, he’ll offer advice on how to think more effectively about the problem.",
+                    "page": 269
+                },
+                {
+                    "time": 1713111333,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "Gladwell did get one thing right, and it is worth repeating because it’s crucial: becoming accomplished in any field in which there is a well-established history of people working to become experts requires a tremendous amount of effort exerted over many years. It may not require exactly ten thousand hours, but it will take a lot.",
+                    "page": 277
+                },
+                {
+                    "time": 1713111320,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Gold Standard",
+                    "text": "Authors and poets have usually been writing for more than a decade before they produce their best work, and it is generally a decade or more between a scientist’s first publication and his or her most important publication—and this is in addition to the years of study before that first published research.",
+                    "page": 278
+                },
+                {
+                    "time": 1713189196,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "Doing the same thing over and over again in exactly the same way is not a recipe for improvement; it is a recipe for stagnation and gradual decline.",
+                    "page": 296
+                },
+                {
+                    "time": 1713189228,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "The reality is, however, that all of these things—managing, selling, teamwork—are specialized skills, and unless you are using practice techniques specifically designed to improve those particular skills, trying hard will not get you very far.",
+                    "page": 296
+                },
+                {
+                    "time": 1713189247,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "The deliberate-practice mindset offers a very different view: anyone can improve, but it requires the right approach. If you are not improving, it’s not because you lack innate talent; it’s because you’re not practicing the right way. Once you understand this, improvement becomes a matter of figuring out what the “right way” is.",
+                    "page": 297
+                },
+                {
+                    "time": 1713189604,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "For anyone in the business or professional world looking for an effective approach to improvement, my basic advice is to look for one that follows the principles of deliberate practice: Does it push people to get outside their comfort zones and attempt to do things that are not easy for them? Does it offer immediate feedback on the performance and on what can be done to improve it? Have those who developed the approach identified the best performers in that particular area and determined what sets them apart from everyone else? Is the practice designed to develop the particular skills that experts in the field possess? A yes answer to all those questions may not guarantee that an approach will be effective, but it will certainly make that much more likely.",
+                    "page": 301
+                },
+                {
+                    "time": 1713191047,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "Indeed, using libraries of mammograms to train radiologists is a kind of simulation. But there are many more areas where this concept could be put to use. One could imagine, for instance, creating a library of case studies designed to help tax accountants hone their skills in certain specialties, or to help intelligence analysts improve their abilities to interpret what is happening in a foreign country.",
+                    "page": 314
+                },
+                {
+                    "time": 1713191161,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "This distinction between knowledge and skills lies at the heart of the difference between traditional paths toward expertise and the deliberate-practice approach. Traditionally, the focus is nearly always on knowledge. Even when the ultimate outcome is being able to do something—solve a particular type of math problem, say, or write a good essay—the traditional approach has been to provide information about the right way to proceed and then mostly rely on the student to apply that knowledge. Deliberate practice, by contrast, focuses solely on performance and how to improve it",
+                    "page": 316
+                },
+                {
+                    "time": 1713192421,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "text": "when referring to improving performance in a professional or business setting, the right question is, How do we improve the relevant skills? rather than, How do we teach the relevant knowledge?\n ",
+                    "page": 330
+                },
+                {
+                    "time": 1713193543,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice on the Job",
+                    "note": "how to test mental representations",
+                    "text": "stop in the middle and quiz people",
+                    "page": 345
+                },
+                {
+                    "time": 1713193677,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "note": "- [ ] add to reading list",
+                    "text": "Geoff Colvin’s book Talent Is Overrated",
+                    "page": 347
+                },
+                {
+                    "time": 1713327502,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Given the expense of private instruction, people will often try to make do with group lessons or even YouTube videos or books, and those approaches will generally work to some degree. But no matter how many times you watch a demonstration in class or on YouTube, you are still going to miss or misunderstand some subtleties—and sometimes some things that are not so subtle—and you are not going to be able to figure out the best ways to fix all of your weaknesses, even if you do spot them.",
+                    "page": 352
+                },
+                {
+                    "time": 1713327887,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.",
+                    "page": 360
+                },
+                {
+                    "time": 1713328202,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Researchers who have studied long-distance runners have found that amateurs tend to daydream or think about more pleasant subjects to take their minds off the pain and strain of their running, while elite long-distance runners remain attuned to their bodies so that they can find the optimal pace and make adjustments to maintain the best pace throughout the whole race.",
+                    "page": 365
+                },
+                {
+                    "time": 1713328426,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "note": "how benjamin franklin improved his writing abilities",
+                    "text": "He came up with a series of clever techniques aimed at teaching himself how to write as well as the writers of The Spectator.",
+                    "page": 369
+                },
+                {
+                    "time": 1713328855,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "The hallmark of purposeful or deliberate practice is that you try to do something you cannot do—that takes you out of your comfort zone—and that you practice it over and over again, focusing on exactly how you are doing it, where you are falling short, and how you can get better. Real life—our jobs, our schooling, our hobbies—seldom gives us the opportunity for this sort of focused repetition, so in order to improve, we must manufacture our own opportunities. Franklin did it with his exercises, each focused on a particular facet of writing. Much of what a good teacher or coach will do is to develop such exercises for you, designed specifically to help you improve the particular skill you are focused on at the moment. But without a teacher, you must come up with your own exercises.",
+                    "page": 373
+                },
+                {
+                    "time": 1713345190,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Despite the first word in the term “mental representation,” pure mental analysis is not nearly enough. We can only form effective mental representations when we try to reproduce what the expert performer can do, fail, figure out why we failed, try again, and repeat—over and over again. Successful mental representations are inextricably tied to actions, not just thoughts, and it is the extended practice aimed at reproducing the original product that will produce the mental representations we seek",
+                    "page": 381
+                },
+                {
+                    "time": 1713345404,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "everyone who faces a plateau: the best way to move beyond it is to challenge your brain or your body in a new way",
+                    "page": 386
+                },
+                {
+                    "time": 1713345661,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "when you reach a point at which you are having difficulty getting better, it will be just one or two of the components of that skill, not all of them, that are holding you back. The question is, Which ones?\nTo figure that out, you need to find a way to push yourself a little—not a lot—harder than usual.",
+                    "page": 389
+                },
+                {
+                    "time": 1713363922,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "there is little scientific evidence for the existence of a general “willpower” that can be applied in any situation. There is no indication, for example, that the students who had enough “willpower” to study countless hours for the national spelling bee would show the same amount of “willpower” if they were asked to practice the piano or chess or baseball. In fact, if anything, the available evidence indicates that willpower is a very situation-specific attribute",
+                    "page": 396
+                },
+                {
+                    "time": 1713364263,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "there is no more scientific evidence for the existence of individual genes that determine willpower than there is for the existence of genes that are necessary for succeeding in chess or piano-playing.",
+                    "page": 398
+                },
+                {
+                    "time": 1713396635,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "As a rule of thumb, I think that anyone who hopes to improve skill in a particular area should devote an hour or more each day to practice that can be done with full concentration.",
+                    "page": 400
+                },
+                {
+                    "time": 1713396665,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Maintaining the motivation that enables such a regimen has two parts: reasons to keep going and reasons to stop. When you quit something that you had initially wanted to do, it’s because the reasons to stop eventually came to outweigh the reasons to continue. Thus, to maintain your motivation you can either strengthen the reasons to keep going or weaken the reasons to quit. Successful motivation efforts generally include both",
+                    "page": 400
+                },
+                {
+                    "time": 1713396875,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "Good planning can help you avoid many of the things that might lead you to spend less time on practice than you wanted.",
+                    "page": 402
+                },
+                {
+                    "time": 1713397042,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "If you want to practice longer than an hour, go for an hour and take a break.",
+                    "page": 404
+                },
+                {
+                    "time": 1713397364,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Principles of Deliberate Practice in Everyday Life",
+                    "text": "There is no reason not to follow your dream. Deliberate practice can open the door to a world of possibilities that you may have been convinced were out of reach. Open that door.",
+                    "page": 424
+                }
+            ]
+        },
+        {
+            "title": "Make It Stick",
+            "number_of_pages": 546,
+            "file": "/mnt/onboard/Non-fiction/Make It Stick.kepub.epub",
+            "author": "Brown, Peter C.",
+            "entries": [
+                {
+                    "time": 1716249352,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Preface",
+                    "text": "Empirical research into how we learn and remember shows that much of what we take for gospel about how to learn turns out to be largely wasted effort.",
+                    "page": 9
+                },
+                {
+                    "time": 1716249501,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Preface",
+                    "text": "If learners spread out their study of a topic, returning to it periodically over time, they remember it better. Similarly, if they interleave the study of different topics, they learn each better than if they had studied them one at a time in sequence.",
+                    "page": 11
+                },
+                {
+                    "time": 1716304672,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Learning is deeper and more durable when it’s effortful. Learning that’s easy is like writing in sand, here today and gone tomorrow.",
+                    "page": 18
+                },
+                {
+                    "time": 1716304678,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "We are poor judges of when we are learning well and when we’re not.",
+                    "page": 18
+                },
+                {
+                    "time": 1716304699,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Rereading text and massed practice of a skill or new knowledge are by far the preferred study strategies of learners of all stripes, but they’re also among the least productive.",
+                    "page": 18
+                },
+                {
+                    "time": 1716304728,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Retrieval practice—recalling facts or concepts or events from memory—is a more effective learning strategy than review by rereading.",
+                    "page": 19
+                },
+                {
+                    "time": 1716304803,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Retrieval strengthens the memory and interrupts forgetting. A single, simple quiz after reading a text or hearing a lecture produces better learning and remembering than rereading the text or reviewing lecture notes.",
+                    "page": 19
+                },
+                {
+                    "time": 1716304815,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "While the brain is not a muscle that gets stronger with exercise, the neural pathways that make up a body of learning do get stronger, when the memory is retrieved and the learning is practiced.",
+                    "page": 19
+                },
+                {
+                    "time": 1716334100,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "if you practice elaboration, there’s no known limit to how much you can learn. Elaboration is the process of giving new material meaning by expressing it in your own words and connecting it with what you already know",
+                    "page": 22
+                },
+                {
+                    "time": 1716334232,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "mental model is a mental representation of some external reality",
+                    "page": 24
+                },
+                {
+                    "time": 1716334329,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "the elements that shape your intellectual abilities lie to a surprising extent within your own control.",
+                    "page": 26
+                },
+                {
+                    "time": 1716334711,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "note": "when it comed to mere exposure such as rereading",
+                    "text": "What’s apparent from the research is that gains achieved during massed practice are transitory and melt away quickly.",
+                    "page": 30
+                },
+                {
+                    "time": 1716334939,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Learning is stronger when it matters, when the abstract is made concrete and personal",
+                    "page": 33
+                },
+                {
+                    "time": 1716352157,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "It makes sense to reread a text once if there’s been a meaningful lapse of time since the first reading, but doing multiple readings in close succession is a time-consuming study strategy that yields negligible benefits at the expense of much more effective strategies that take less time",
+                    "page": 40
+                },
+                {
+                    "time": 1716438617,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "the ease with which they follow the argument gives them the feeling that they already know it and don’t need to study it.",
+                    "page": 42
+                },
+                {
+                    "time": 1716819696,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "Mastery requires both the possession of ready knowledge and the conceptual understanding of how to use it.",
+                    "page": 46
+                },
+                {
+                    "time": 1716820045,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. Learning Is Misunderstood",
+                    "text": "The good news is that we now know of simple and practical strategies that anybody can use, at any point in life, to learn better and remember longer: various forms of retrieval practice, such as low-stakes quizzing and self-testing, spacing out practice, interleaving the practice of different but related topics or skills, trying to solve a problem before being taught the solution, distilling the underlying principles or rules that differentiate types of problems, and so on.",
+                    "page": 52
+                },
+                {
+                    "time": 1716820472,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Reflection can involve several cognitive activities that lead to stronger learning: retrieving knowledge and earlier training from memory, connecting these to new experiences, and visualizing and mentally rehearsing what you might do differently next time.",
+                    "page": 60
+                },
+                {
+                    "time": 1716820582,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "note": "memory involved delaying the forgetting curve",
+                    "text": "Since as far back as 1885, psychologists have been plotting “forgetting curves” that illustrate just how fast our cranberries slip off the string. In very short order we lose something like 70 percent of what we’ve just heard or read. After that, forgetting begins to slow, and the last 30 percent or so falls away more slowly, but the lesson is clear: a central challenge to improving the way we learn is finding a way to interrupt the process of forgetting.",
+                    "page": 62
+                },
+                {
+                    "time": 1716820693,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "practicing retrieval makes learning stick far better than reexposure to the original material does. This is the testing effect, also known as the retrieval-practice effect",
+                    "page": 63
+                },
+                {
+                    "time": 1716957795,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "In 1978, researchers found that massed studying (cramming) leads to higher scores on an immediate test but results in faster forgetting compared to practicing retrieval.",
+                    "page": 69
+                },
+                {
+                    "time": 1716957940,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "multiple sessions of retrieval practice are generally better than one, especially if the test sessions are spaced out.",
+                    "page": 70
+                },
+                {
+                    "time": 1716958848,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "note": "tesching is only a com¶onent of learning. the way its taught and tested matters",
+                    "text": "teacher as I might think I am, my teaching is only a component of their learning, and how I structure it has a lot to do with it, maybe even more.",
+                    "page": 82
+                },
+                {
+                    "time": 1716958994,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "note": "- [ ] link this to Peak note about deliberate practice",
+                    "text": "Studies show that giving feedback strengthens retention more than testing alone does, and, interestingly, some evidence shows that delaying the feedback briefly produces better long-term learning than immediate feedback.",
+                    "page": 84
+                },
+                {
+                    "time": 1716959121,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "In the classroom, delayed feedback also yields better long-term learning than immediate feedback does.",
+                    "page": 85
+                },
+                {
+                    "time": 1716974467,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "While any kind of retrieval practice generally benefits learning, the implication seems to be that where more cognitive effort is required for retrieval, greater retention results.",
+                    "page": 86
+                },
+                {
+                    "time": 1716974655,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Students whose study strategies emphasize rereading but not self-testing show overconfidence in their mastery.",
+                    "page": 88
+                },
+                {
+                    "time": 1716974760,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Practice at retrieving new knowledge or skill from memory is a potent tool for learning and durable retention. This is true for anything the brain is asked to remember and call up again in the future—facts, complex concepts, problem-solving techniques, motor skills.",
+                    "page": 91
+                },
+                {
+                    "time": 1716974765,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Effortful retrieval makes for stronger learning and retention.",
+                    "page": 91
+                },
+                {
+                    "time": 1716974772,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Repeated retrieval not only makes memories more durable but produces knowledge that can be retrieved more readily, in more varied settings, and applied to a wider variety of problems.",
+                    "page": 91
+                },
+                {
+                    "time": 1716974787,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Testing doesn’t need to be initiated by the instructor. Students can practice retrieval anywhere; no quizzes in the classroom are necessary. Think flashcards—",
+                    "page": 92
+                },
+                {
+                    "time": 1716974794,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Students who take practice tests have a better grasp of their progress than those who simply reread the material.",
+                    "page": 92
+                },
+                {
+                    "time": 1716974803,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. To Learn, Retrieve",
+                    "text": "Giving students corrective feedback after tests keeps them from incorrectly retaining material they have misunderstood",
+                    "page": 93
+                },
+                {
+                    "time": 1717043280,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Mix Up Your Practice",
+                    "text": "The mixing of problem types, which boosted final test performance by a remarkable 215 percent, actually impeded performance during initial learning.",
+                    "page": 103
+                },
+                {
+                    "time": 1717043275,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Mix Up Your Practice",
+                    "text": "What would interleaved practice look like? You practice procedure 1 just a few times, then switch to procedure 4, then switch to 3, then to 7, and so on.",
+                    "page": 103
+                },
+                {
+                    "time": 1717043293,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Mix Up Your Practice",
+                    "text": "The learning from interleaved practice feels slower than learning from massed practice. Teachers and students sense the difference.",
+                    "page": 103
+                },
+                {
+                    "time": 1717043429,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Mix Up Your Practice",
+                    "text": "The basic idea is that varied practice—like tossing your beanbags into baskets at mixed distances—improves your ability to transfer learning from one situation and apply it successfully to another.",
+                    "page": 105
+                }
+            ]
+        },
+        {
+            "title": "The Book Thief",
+            "number_of_pages": 948,
+            "file": "/mnt/onboard/Fiction/classics/The_Book_Thief.kepub.epub",
+            "author": "Markus Zusak",
+            "entries": [
+                {
+                    "time": 1736106270,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The Woman with the Iron Fist",
+                    "note": "Page 59 Trust was accumulated quickly, due primarily to the brute strength of the man’s gentleness, his thereness. @ 2025-01-06 03:44:30",
+                    "text": "Trust was accumulated quickly, due primarily to the brute strength of the man’s gentleness, his thereness.",
+                    "page": 64
+                },
+                {
+                    "time": 1736120622,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "A Girl Made of Darkness",
+                    "text": "that one opportunity leads directly to another, just as risk leads to more risk, life to more life, and death to more death.",
+                    "page": 142
+                },
+                {
+                    "time": 1737297999,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "One Toolkit, One Bleeder, One Bear",
+                    "text": "’m always finding humans at their best and worst. I see their ugliness and their beauty, and I wonder how the same thing can be both. Still, they have one thing that I envy. Humans, if nothing else, have the good sense to die.",
+                    "page": 813
+                },
+                {
+                    "time": 1741498498,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "The End of the World (Part II)",
+                    "text": "This one was sent out by the breath of an accordion, the odd taste of champagne in summer, and the art of promise-keeping.",
+                    "page": 876
+                }
+            ]
+        },
+        {
+            "title": "The Unbearable Lightness of Being",
+            "number_of_pages": 522,
+            "file": "/mnt/onboard/Fiction/classics/The_Unbearable_Lightness_of_Being.kepub.epub",
+            "author": "Milan Kundera",
+            "entries": [
+                {
+                    "time": 1735718988,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART ONE",
+                    "text": "If every second of our lives recurs an infinite number of times, we are nailed to eternity as Jesus Christ was nailed to the cross.",
+                    "page": 24
+                },
+                {
+                    "time": 1735719269,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART ONE",
+                    "text": "The heavier the burden, the closer our lives come to the earth, the more real and truthful they become.\nConversely, the absolute absence of a burden causes man to be lighter than air, to soar into the heights, take leave of the earth and his earthly being, and become only half real, his movements as free as they are insignificant.\nWhat then shall we choose? Weight or lightness?",
+                    "page": 24
+                },
+                {
+                    "time": 1735719962,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART ONE",
+                    "text": "can never know what to want, because, living only one life, we can neither compare it with our previous lives nor perfect it in our lives to come",
+                    "page": 30
+                },
+                {
+                    "time": 1735719982,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART ONE",
+                    "text": "live everything as it comes, without warning, like an actor going on cold. And what can life be worth if the first rehearsal for life is life itself?",
+                    "page": 30
+                },
+                {
+                    "time": 1735724960,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART ONE",
+                    "text": "necessity, weight, and value are three concepts inextricably bound: only necessity is heavy, and only what is heavy has value.",
+                    "page": 72
+                },
+                {
+                    "time": 1735767095,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART THREE",
+                    "text": "While people are fairly young and the musical composition of their lives is still in its opening bars, they can go about\n89\nwriting it together and exchange motifs (the way Tomas and Sabina exchanged the motif of the bowler hat), but if they meet when they are older, like Franz and Sabina, their musical compositions are more or less complete, and every motif, every object, every word means something different to each of them.",
+                    "page": 153
+                },
+                {
+                    "time": 1735807098,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART THREE",
+                    "text": "overproduction, in an avalanche of words, in the madness of quantity. That's why one banned book in your former country means infinitely more than the billions of words spewed out by our universities",
+                    "page": 179
+                },
+                {
+                    "time": 1735810044,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART THREE",
+                    "text": "Having a public, keeping a public in mind, means living in lies.",
+                    "page": 196
+                },
+                {
+                    "time": 1735854816,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART FIVE",
+                    "text": "Which is to say, love begins at the point when a woman enters her first word into our poetic memory.",
+                    "page": 349
+                },
+                {
+                    "time": 1735856952,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART FIVE",
+                    "text": "characters are not born like people, of woman; they are born of a situation, a sentence, a metaphor containing in a nutshell a basic human possibility that the author thinks no one else has discovered or said something essential about.",
+                    "page": 370
+                },
+                {
+                    "time": 1735857579,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART FIVE",
+                    "text": "The characters in my novels are my own unrealized possibilities. That is why I am equally fond of them all and equally horrified by them. Each one has crossed a border that I myself have circumvented. It is that crossed border (the border beyond which my own \"I\" ends) which attracts me most. For beyond that border begins the secret the novel asks about.",
+                    "page": 371
+                },
+                {
+                    "time": 1735857620,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART FIVE",
+                    "text": "The novel is not the author's confession; it is an investigation of human life in the trap the world has become.",
+                    "page": 371
+                },
+                {
+                    "time": 1735857809,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART FIVE",
+                    "text": "Human life occurs only once, and the reason we cannot determine which of our decisions are good and which bad is that in a given situation we can make only one decision; we are not granted a second, third, or fourth life in which to compare various decisions.",
+                    "page": 373
+                },
+                {
+                    "time": 1735894952,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART SIX",
+                    "text": "If rejection and privilege are one and the same, if there is no difference between the sublime and the paltry, if the Son of God can undergo judgment for shit, then human existence loses its dimensions and becomes unbearably light.",
+                    "page": 407
+                },
+                {
+                    "time": 1735944313,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART SIX",
+                    "text": "the line separating those who doubt being as it is granted to man (no matter how or by whom) from those who accept it without reservation",
+                    "page": 412
+                },
+                {
+                    "time": 1735981841,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART SIX",
+                    "text": "No matter how we scorn it, kitsch is an integral part of the human condition.",
+                    "page": 427
+                },
+                {
+                    "time": 1735987955,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART SEVEN",
+                    "text": "Sometimes you make up your mind about something without knowing why, and your decision persists by the power of inertia.",
+                    "page": 511
+                },
+                {
+                    "time": 1735988838,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "PART SEVEN",
+                    "text": "Missions are stupid, Tereza. I have no mission. No one has. And it's a terrific relief to realize you're free, free of all missions.\"",
+                    "page": 520
+                }
+            ]
+        },
+        {
+            "title": "The Left Hand of Darkness",
+            "number_of_pages": 462,
+            "file": "/mnt/onboard/Fiction/sci-fi/le Guin, Ursula K - The Left Hand of Darkness.kepub.epub",
+            "author": "Ursula K. Le Guin",
+            "entries": [
+                {
+                    "time": 1710166932,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. A Parade in Erhenrang . 5",
+                    "text": "No, I don’t mean love, when I say patriotism. I mean fear. The fear of the other. And its expressions are political, not poetical: hate, rivalry, aggression",
+                    "page": 31
+                },
+                {
+                    "time": 1710287150,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. A Parade in Erhenrang . 5",
+                    "text": "“the unforetold, the unproven, that is what life is based on. Ignorance is the ground of thought.",
+                    "page": 96
+                },
+                {
+                    "time": 1711013346,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "15. To the Ice",
+                    "text": "How does one hate a country, or love one? Tibe talks about it; I lack the trick of it. I know people, I know towns, farms, hills and rivers and rocks, I know how the sun at sunset in autumn falls on the side of a certain plowland in the hills; but what is the sense of giving a boundary to all that, of giving it a name and ceasing to love where the name ceases to apply? What is love of one’s country; is it hate of one’s uncountry? Then it’s not a good thing. Is it simply self-love? That’s a good thing, but one mustn’t make a virtue of it, or a profession. . . .",
+                    "page": 304
+                },
+                {
+                    "time": 1711288986,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "16. Between Drumner and Dremegole",
+                    "text": "Light is the left hand of darkness and darkness the right hand of light. Two are one, life and death, lying together like lovers in kemmer, like hands joined together, like the end and the way.",
+                    "page": 337
+                },
+                {
+                    "time": 1711366510,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "18. On the Ice",
+                    "text": "profound love between two people involves, after all, the power and chance of doing profound hurt",
+                    "page": 356
+                }
+            ]
+        },
+        {
+            "title": "On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction",
+            "number_of_pages": 516,
+            "file": "/mnt/onboard/Non-fiction/William Zinsser - On Writing Well_ 30th Anniversary Edition_ An Informal Guide to Writing Nonfiction.epub",
+            "author": "William Zinsser",
+            "entries": [
+                {
+                    "time": 1717044402,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "Introduction",
+                    "note": "- [ ] add to reading list",
+                    "text": "I wrote a book in 2004 called Writing About Your Life",
+                    "page": 10
+                },
+                {
+                    "time": 1717044781,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. The Transaction",
+                    "text": "rewriting is the essence of writing",
+                    "page": 16
+                },
+                {
+                    "time": 1717061259,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "1. The Transaction",
+                    "text": "I often find myself reading with interest about a topic I never thought would interest me—some scientific quest, perhaps. What holds me is the enthusiasm of the writer for his field.",
+                    "page": 19
+                },
+                {
+                    "time": 1717061344,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. Simplicity",
+                    "text": "But the secret of good writing is to strip every sentence to its cleanest components.",
+                    "page": 21
+                },
+                {
+                    "time": 1717061458,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. Simplicity",
+                    "text": "Simplify, simplify. Thoreau said it, as we are so often reminded, and no American writer more consistently practiced what he preached. Open Walden to any page and you will find a man saying in a plain and orderly way what is on his mind:",
+                    "page": 22
+                },
+                {
+                    "time": 1717061685,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "2. Simplicity",
+                    "text": "Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it’s because it is hard.",
+                    "page": 25
+                },
+                {
+                    "time": 1717061909,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Clutter",
+                    "text": "Examine every word you put on paper. You’ll find a surprising number that don’t serve any purpose.",
+                    "page": 29
+                },
+                {
+                    "time": 1717127487,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Clutter",
+                    "text": "George Orwell pointed out in “Politics and the English Language,” an essay written in 1946 but often cited during the wars in Cambodia, Vietnam and Iraq, “political speech and writing are largely the defense of the indefensible.... Thus political language has to consist largely of euphemism, question-begging and sheer cloudy vagueness",
+                    "page": 31
+                },
+                {
+                    "time": 1717143743,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "3. Clutter",
+                    "text": "Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.",
+                    "page": 34
+                },
+                {
+                    "time": 1717562719,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "5. The Audience",
+                    "text": "You are writing for yourself. Don’t try to visualize the great mass audience. There is no such audience—",
+                    "page": 46
+                },
+                {
+                    "time": 1717563953,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "6. Words",
+                    "text": "See if you can gain variety by reversing the order of a sentence, or by substituting a word that has freshness or oddity, or by altering the length of your sentences so they don’t all sound as if they came out of the same machine.",
+                    "page": 65
+                },
+                {
+                    "time": 1717648583,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "8. Unity",
+                    "text": "You learn to write by writing. It’s a truism, but what makes it a truism is that it’s true. The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.",
+                    "page": 81
+                },
+                {
+                    "time": 1717648993,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "“Joe saw him” is strong. “He was seen by Joe” is weak. The first is short and precise; it leaves no doubt about who did what.",
+                    "page": 110
+                },
+                {
+                    "time": 1717649099,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Active verbs also enable us to visualize an activity because they require a pronoun (“he”), or a noun (“the boy”), or a person (“Mrs. Scott”) to put them in motion.",
+                    "page": 111
+                },
+                {
+                    "time": 1717649162,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.",
+                    "page": 112
+                },
+                {
+                    "time": 1717649232,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Don’t write that someone clenched his teeth tightly; there’s no other way to clench teeth. Again and again in careless writing, strong verbs are weakened by redundant adverbs.",
+                    "page": 112
+                },
+                {
+                    "time": 1717649493,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Don’t say you were a bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed. Don’t hedge your prose with little timidities. Good writing is lean and confident.",
+                    "page": 115
+                },
+                {
+                    "time": 1717649673,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "note": "in relation to the semi colon",
+                    "text": "use it with discretion, remembering that it will slow to a Victorian pace the early-21st-century momentum you’re striving for, and rely instead on the period and the dash.",
+                    "page": 118
+                },
+                {
+                    "time": 1717649712,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "The dash is used in two ways. One is to amplify or justify in the second part of the sentence a thought you stated in the first part.",
+                    "page": 118
+                },
+                {
+                    "time": 1717649736,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "other use involves two dashes, which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town",
+                    "page": 119
+                },
+                {
+                    "time": 1717649789,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "note": "colons best used for lists",
+                    "text": "it still serves well its pure role of bringing your sentence to a brief halt before you plunge into, say, an itemized list. “The brochure said the ship would stop at the following ports: Oran, Algiers, Naples, Brindisi, Piraeus, Istanbul and Beirut.” You can’t beat the colon for work like that.",
+                    "page": 119
+                },
+                {
+                    "time": 1717649853,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Many of us were taught that no sentence should begin with “but.” If that’s what you learned, unlearn it—there’s no stronger word at the start.",
+                    "page": 120
+                },
+                {
+                    "time": 1717649868,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "If you need relief from too many sentences beginning with “but,” switch to “however.”",
+                    "page": 120
+                },
+                {
+                    "time": 1717650113,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "10. Bits & Pieces",
+                    "text": "Nouns that express a concept are commonly used in bad writing instead of verbs that tell what somebody did.",
+                    "page": 124
+                },
+                {
+                    "time": 1718115380,
+                    "drawer": "lighten",
+                    "sort": "highlight",
+                    "chapter": "14. Writing About Yourself: The Memoir",
+                    "text": "If you consciously write for a teacher or for an editor, you’ll end up not writing for anybody. If you write for yourself, you’ll reach the people you want to write for.",
+                    "page": 214
+                }
+            ]
+        }
+    ],
+    "created_on": 1745897661
+}
