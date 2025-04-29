@@ -1,47 +1,48 @@
-# Astro Starter Kit: Minimal
+# Kobo Highlights
 
-```sh
-npm create astro@latest -- --template minimal
-```
+A simple application to display and search through Kobo e-reader highlights.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## Features
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Display book highlights from Kobo e-reader
+- Search functionality to filter books and highlights
+- Responsive design for all devices
 
-## 🚀 Project Structure
+## Implementation Details
 
-Inside of your Astro project, you'll see the following folders and files:
+### Search Functionality
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+The search functionality is implemented following SOLID, DRY, KISS, and YAGNI principles:
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+1. **Single Responsibility Principle (SRP)**: Each component and function has a single responsibility
+   - `useSearch` hook: Manages search state
+   - `filterBySearchTerm` utility: Handles filtering logic
+   - `SearchBar` component: Renders the search input
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+2. **Don't Repeat Yourself (DRY)**: Code is not duplicated
+   - Reusable search hook
+   - Generic filtering utility that works with any data structure
 
-Any static assets, like images, can be placed in the `public/` directory.
+3. **Keep It Simple, Stupid (KISS)**: Simple and straightforward implementation
+   - Clear and concise code
+   - Minimal dependencies
 
-## 🧞 Commands
+4. **You Aren't Gonna Need It (YAGNI)**: Only implemented what is needed
+   - No unnecessary features or abstractions
 
-All commands are run from the root of the project, from a terminal:
+### Components
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- `SearchBar`: A reusable search input component
+- `BookCard`: Displays book information and highlights
 
-## 👀 Want to learn more?
+### Utilities
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- `useSearch`: A custom hook for managing search state
+- `filterBySearchTerm`: A utility function for filtering data based on search terms
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
+4. Open your browser and navigate to `http://localhost:4321`

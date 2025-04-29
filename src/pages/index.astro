@@ -24,11 +24,19 @@ const sortedBooks = [...books].sort(
 				My Reading Highlights
 			</h1>
 			<div class="w-full sm:w-auto">
-				<SearchBar client:load />
+				<SearchBar
+					client:load
+					placeholder="Search highlights..."
+					onSearch={(searchTerm) => {
+						// This will be handled by the client-side JavaScript
+						console.log("Searching for:", searchTerm);
+					}}
+				/>
 			</div>
 		</div>
 
 		<div
+			id="books-container"
 			class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6"
 		>
 			{
@@ -51,3 +59,59 @@ const sortedBooks = [...books].sort(
 		</div>
 	</main>
 </Layout>
+
+<script>
+	// Client-side search functionality
+	import { filterBySearchTerm } from "../utils/searchUtils";
+
+	// Get all book cards
+	const booksContainer = document.getElementById("books-container");
+	const bookCards = booksContainer?.querySelectorAll("a");
+
+	// Function to filter books based on search term
+	function filterBooks(searchTerm: string) {
+		if (!bookCards || !booksContainer) return;
+
+		// Convert NodeList to Array for easier manipulation
+		const bookCardsArray = Array.from(bookCards);
+
+		// Create a data structure for filtering
+		const booksData = bookCardsArray.map((card) => {
+			const title = card.querySelector("h2")?.textContent || "";
+			const author =
+				card.querySelector("p")?.textContent?.replace("By ", "") || "";
+			const highlights = Array.from(
+				card.querySelectorAll(".border-l-4 p"),
+			).map((p) => p.textContent || "");
+
+			return {
+				element: card,
+				title,
+				author,
+				highlights,
+			};
+		});
+
+		// Filter books based on search term
+		const filteredBooks = filterBySearchTerm(booksData, searchTerm, [
+			"title",
+			"author",
+			"highlights",
+		]);
+
+		// Hide/show books based on filtering
+		bookCardsArray.forEach((book) => {
+			book.style.display = "none";
+		});
+
+		filteredBooks.forEach((book) => {
+			book.element.style.display = "block";
+		});
+	}
+
+	// Listen for search events
+	document.addEventListener("search", (event) => {
+		const searchTerm = event.detail;
+		filterBooks(searchTerm);
+	});
+</script>
